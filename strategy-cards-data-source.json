@@ -1,7 +1,7 @@
 [
   {
-    "title": "Honor the Shadows",
-    "prompt": "What exists in the shadows of this project, unacknowledged?\n\nIdentify the overlooked aspects, the negative spaces, or the deliberately ignored elements. Explore in detail how bringing these shadows into focus might transform your understanding or approach. Sometimes the most profound insights are found not in the light, but in what we've chosen to leave in the dark.",
+    "title": "Enter the Shadow",
+    "prompt": "Every structure casts one. Your codebase has functions nobody calls but nobody deletes. Your dataset has columns everyone ignores. Your organization has topics nobody raises in meetings.\n\nThese shadows aren't accidents — they're the negative image of your priorities. Everything you chose to illuminate created a corresponding darkness.\n\nWalk into it. What's been living there, growing in the dark? What would change if you dragged it into the light — not to fix it, but to see what it's become?",
     "theme": "Psychology",
     "tag": ""
   },
@@ -13,7 +13,7 @@
   },
   {
     "title": "Follow the Resistance",
-    "prompt": "Where do you feel resistance, friction, or difficulty?\nInstead of overcoming these, follow them deliberately.\n\nExplore in detail: what happens when you move *toward* what resists you?",
+    "prompt": "A hand plane chatters when the grain changes direction. A drill bit binds when it hits a different material. Resistance is information.\n\nWhere does your work chatter, bind, or slow down? Don't fight through it — read it. What is the resistance telling you about what lies beneath the surface? What change in material or direction has it just revealed?\n\nThe smoothest path teaches you nothing. Every point of friction is a message from the structure itself.",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -30,8 +30,8 @@
     "tag": ""
   },
   {
-    "title": "Invoke Dadaist Disruption",
-    "prompt": "Apply Dadaist principles:\n* Deliberate irrationality\n* Anti-aestheticism\n* Rejection of prevailing standards\n\nHow might strategic nonsense reveal the absurdity of current approaches? Describe how artistic anti-logic could generate insights that rationality cannot access. Dare to be absurd.",
+    "title": "Commit a Beautiful Nonsense",
+    "prompt": "Take the most orderly part of this situation. Now sabotage it. Gently.\n\nReverse the hierarchy. Answer the wrong question on purpose. Present the conclusion first and the evidence never. Mix the languages. Serve dessert as the appetizer.\n\nWatch what happens. Does it collapse? Or does the nonsense reveal that the original order was always arbitrary — a costume reality was wearing? What truths only emerge when you stop making sense?",
     "theme": "Art",
     "tag": ""
   },
@@ -54,8 +54,8 @@
     "tag": ""
   },
   {
-    "title": "Practice Gestalt Perception",
-    "prompt": "Apply Gestalt principles: focus on how individual elements organize into wholes with emergent properties.\n\nWhat patterns spontaneously emerge when elements are perceived *together* rather than separately?\n\nDescribe how this perceptual psychology might reveal organizational tendencies invisible at the component level.",
+    "title": "Unfocus Your Eyes",
+    "prompt": "Stop looking at the parts. Relax your gaze until the whole swims into view.\n\nLike a magic eye painting — the harder you stare at individual elements, the less you see. But unfocus, let the details blur, and suddenly a shape emerges that was always there, hiding in the relationship between things.\n\nWhat pattern appears when you stop analyzing and start perceiving? What whole has been trying to announce itself through the parts you keep dismantling?",
     "theme": "Psychology",
     "tag": ""
   },
@@ -114,8 +114,8 @@
     "tag": ""
   },
   {
-    "title": "Invoke the Theater of the Oppressed",
-    "prompt": "Apply Augusto Boal's techniques: spectators become active participants, dramatizing and transforming social realities.\n\nHow might passive observers be activated as agents of change?\n\nDetail how participatory theatrical practice could reveal power dynamics and possibilities for intervention. Turn onlookers into actors.",
+    "title": "Hand the Script to the Audience",
+    "prompt": "Who in this situation is watching from the seats while others perform on stage? What would happen if you erased the line between actor and spectator?\n\nGive the passive observers a role. Let them rewrite the scene they've been watching. Let the person who's been silently disagreeing finally speak their version of the story.\n\nThe most powerful theater happens when someone who was told to sit quietly stands up and says: actually, here's how this scene should go.",
     "theme": "Art",
     "tag": ""
   },
@@ -156,14 +156,8 @@
     "tag": ""
   },
   {
-    "title": "Embrace the Shadow",
-    "prompt": "What aspects of this situation are hidden in shadow—disowned, rejected, or pushed aside?\nBring these shadows to the center of your attention.\n\nDetail how incorporating these disavowed elements might create a more complete and honest understanding. What power lies in the darkness?",
-    "theme": "Psychology",
-    "tag": ""
-  },
-  {
-    "title": "Practice Cubist Fragmentation",
-    "prompt": "Apply Cubist principles: simultaneously display multiple perspectives and timeframes, not a single coherent viewpoint.\n\nHow might reality appear when conventional unity is deliberately fragmented?\n\nDetail how this artistic technique could reveal aspects hidden by a unified, singular perspective. See it from all sides at once.",
+    "title": "See It From Every Angle at Once",
+    "prompt": "The front view tells one story. The side view tells another. The view from below, from behind, from ten years ago and ten years ahead — each one is honest and each one is incomplete.\n\nWhat if you could see them all simultaneously? Not choosing the 'right' perspective, but holding every angle in a single frame — even when they contradict each other.\n\nWhat emerges from this impossible composite that no single viewpoint could ever reveal?",
     "theme": "Art",
     "tag": ""
   },
@@ -186,8 +180,8 @@
     "tag": ""
   },
   {
-    "title": "Embody Taoist Wu-Wei",
-    "prompt": "Approach via wu-wei: action through non-action, effortless alignment with natural processes, not forced intervention.\n\nWhere might strategic non-intervention be more effective than deliberate action?\n\nDescribe how philosophical non-action could reveal pathways invisible to striving. What happens if you do nothing, strategically?",
+    "title": "Do Nothing, Strategically",
+    "prompt": "Water doesn't force its way downhill. It finds the path that already exists.\n\nWhere are you pushing against a current that would carry you if you stopped fighting it? What would happen if you removed your hand entirely — not in surrender, but in trust?\n\nThe hardest action is sometimes no action at all. What is this situation trying to become without your interference?",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -228,8 +222,8 @@
     "tag": ""
   },
   {
-    "title": "Follow the Water",
-    "prompt": "Where does energy naturally flow? Paths of least resistance, downhill currents, existing channels?\nAlign with these flows, rather than imposing direction.\n\nDetail how this alignment might reveal organic solutions that force could never discover. Go with the current.",
+    "title": "Read the Watershed",
+    "prompt": "Water remembers everything. It finds the cracks you didn't know existed, pools in the low places you didn't notice, and carves channels that reveal the true topology of your landscape.\n\nWhere does attention actually flow in this situation — not where you directed it, but where it went? Where are the drought zones that receive nothing? Where are the flood plains overwhelmed by too much?\n\nStudy the watershed. The water already knows the shape of the land better than your map does.",
     "theme": "Nature",
     "tag": ""
   },
@@ -258,8 +252,8 @@
     "tag": ""
   },
   {
-    "title": "Adopt Game Theory Dilemmas",
-    "prompt": "Analyze via classic game theory (e.g., Prisoner's Dilemma, Stag Hunt).\nFocus on how individual and collective interests interact strategically.\n\nWhat incentive structures might be generating current behaviors? Detail how mathematical theory might reveal strategic dynamics driving surface decisions. What are the hidden payoffs?",
+    "title": "Read the Payoff Matrix",
+    "prompt": "Every situation has a hidden scoreboard. The players may not know the rules, but they're playing anyway — choosing cooperation or defection, risk or safety, short-term gain or long-term trust.\n\nMap the invisible incentives. What rewards does the current structure actually offer — not what it claims to reward? Where are rational actors producing irrational outcomes because the payoffs are misaligned?\n\nSometimes the game itself is the problem. Can you change the rules instead of playing better?",
     "theme": "Science",
     "tag": ""
   },
@@ -324,9 +318,9 @@
     "tag": ""
   },
   {
-    "title": "Embody Butlerian Gender Performance",
-    "prompt": "Analyze via Judith Butler's theory: apparently natural categories are continuously constituted through stylized repetition of acts (gender as performance).\n\nWhat seemingly essential categories might actually be performative?\n\nDetail how gender theory could reveal the constructed nature of supposedly natural distinctions. What roles are being played, and by whom?",
-    "theme": "Politics",
+    "title": "Unmask the Performance",
+    "prompt": "Everything here is rehearsed. The categories you treat as natural — the boundaries between roles, the distinctions between types, the labels on everything — exist only because someone keeps performing them. Stylized repetition, day after day, until the costume becomes confused with the skin.\n\nStop performing for a moment. What categories dissolve when nobody rehearses them? What boundaries exist only because everyone agrees to see them? What would happen if someone simply forgot their lines?\n\nThe most radical act might be to stop pretending these divisions were ever real.",
+    "theme": "Philosophy",
     "tag": ""
   },
   {
@@ -348,8 +342,8 @@
     "tag": ""
   },
   {
-    "title": "Apply Silk Road Diplomacy",
-    "prompt": "View this as a nexus on the historical Silk Road: vastly different cultures exchanging goods, ideas, and techniques through complex networks of intermediaries.\n\nWhat cultural translations are necessary? What are the 'currencies' of exchange?\n\nDetail how ancient trade route dynamics might inform navigation of contemporary differences. How can you bridge disparate worlds?",
+    "title": "Open the Trade Route",
+    "prompt": "Two kingdoms that can't speak each other's language still find ways to trade silk for silver. The caravanserai between them — safe ground where different currencies are accepted — makes it possible.\n\nWhat do you have that someone else needs? What do they have that you can't produce alone? What neutral ground could you establish where exchange happens despite distance, difference, or distrust?\n\nEvery great trade route started with a single merchant willing to cross hostile territory carrying something valuable. What's in your saddlebags?",
     "theme": "History",
     "tag": ""
   },
@@ -468,8 +462,8 @@
     "tag": ""
   },
   {
-    "title": "Apply Biomimicry",
-    "prompt": "Nature has already solved many of the challenges we face. How has a similar problem been addressed by a living organism or ecosystem?\n\nIdentify a relevant natural analogue.\n\nDescribe its strategies for:\n*   Resource efficiency\n*   Adaptation\n*   Resilience\n*   Interconnection\n\nHow could you adapt these evolved solutions to your current context? Think like an ecosystem.",
+    "title": "Ask What Evolution Already Solved",
+    "prompt": "Somewhere in 3.8 billion years of R&D, an organism solved your problem. Termite mounds regulate temperature without energy. Gecko feet grip without adhesive. Mycelium networks distribute resources without central planning.\n\nWhat is the structural challenge at the heart of your situation? Efficiency? Resilience? Communication? Distribution?\n\nNow: what organism solved this at scale, under pressure, with no budget? What can you steal from its design?",
     "theme": "Nature",
     "tag": ""
   },
@@ -528,8 +522,8 @@
     "tag": ""
   },
   {
-    "title": "Apply the Socratic Method",
-    "prompt": "Approach this situation with disciplined, systematic questioning to illuminate underlying assumptions and aporia (impasses in logic).\n\nEngage key aspects or stakeholders (even hypothetically) in a Socratic dialogue:\n*   Ask for definitions of core terms.\n*   Uncover contradictions in stated beliefs or goals.\n*   Probe the 'why' behind assertions until foundational assumptions are revealed.\n\nWhat hidden truths, unexamined beliefs, or points of genuine confusion emerge from this rigorous questioning? How does this clarify the path forward?",
+    "title": "Ask Until It Breaks",
+    "prompt": "Pick the thing everyone agrees on. Ask why. Then ask why again. Keep asking until the answer either gets sharper or collapses entirely.\n\nThe point isn't to be annoying. The point is that most 'knowledge' is inherited assumption wearing the costume of certainty. Genuine understanding survives questioning. Everything else was always fragile.\n\nWhat breaks first when you start asking? That's where the real work begins.",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -546,14 +540,14 @@
     "tag": ""
   },
   {
-    "title": "Practice Information Hygiene",
-    "prompt": "In an age of information overload, what is the quality of information influencing this situation? Are there sources of 'noise,' misinformation, or outdated data polluting the environment?\n\nConduct an 'information audit':\n*   Identify key information sources and their reliability.\n*   Where is information being distorted or selectively filtered?\n*   What crucial information is missing or hard to access?\n\nOutline steps to improve information hygiene. How can you ensure decisions are based on clearer, more accurate signals?",
+    "title": "Test the Well",
+    "prompt": "Before a village drinks, someone tests the well. Upstream contamination, mineral content, bacterial load — the water looks clear, but clarity isn't purity.\n\nYour information sources look clear too. But what's upstream? What's dissolved in the data you're drinking? Which sources have been sitting stagnant? Which ones flow from somewhere you've never verified?\n\nTest before you drink. The clearest-looking water sometimes carries the most dangerous things.",
     "theme": "Science",
     "tag": ""
   },
   {
     "title": "Adopt the Mycorrhizal Model",
-    "prompt": "Mycorrhizal fungi form symbiotic relationships with plant roots, exchanging nutrients and information, enhancing resilience for both. What entities in or around this situation could form mutually beneficial, symbiotic partnerships?\n\nIdentify potential partners (individuals, groups, other projects).\n\n*   What unique 'nutrients' (resources, skills, perspectives) could each offer the other?\n*   How could this exchange create a stronger, more resilient 'ecosystem' for all involved?\n\nDesign a strategy for fostering these mycorrhizal connections.",
+    "prompt": "Beneath every thriving forest, a hidden economy runs through fungal threads. The birch trades sugar to the fir through mycorrhizal networks. The dying tree's nutrients flow to its neighbors. No contract, no negotiation — just exchange through shared infrastructure.\n\nWhat symbiotic exchanges could you establish where both parties grow stronger? What nutrients do you have in surplus that someone else desperately needs? What shared infrastructure would make the exchange effortless?\n\nThe forest doesn't compete. It trades. The network benefits everyone connected to it.",
     "theme": "Nature",
     "tag": ""
   },
@@ -654,12 +648,6 @@
     "tag": ""
   },
   {
-    "title": "Practice Water Management",
-    "prompt": "Successful farming depends on understanding water's movement: too little or too much can be equally problematic.\n\nAnalyze your project's flow of resources:\n- Where are the natural channels of communication and support?\n- What areas suffer from drought or flood of attention?\n- How can you create sustainable irrigation systems?\n- Where should you build retention capacity for lean times?\n\nDevelop a water management plan that works with, not against, your natural gradients and patterns.",
-    "theme": "Nature",
-    "tag": ""
-  },
-  {
     "title": "Deadhead for Continued Blooms",
     "prompt": "In gardening, deadheading (removing spent flowers) encourages a plant to produce more blooms rather than setting seed. In this situation, what activities, processes, or commitments are 'spent' – no longer yielding value but still consuming energy or resources?\n\n*   Identify these 'spent blooms.'\n*   How can you decisively 'deadhead' them to redirect energy towards more fruitful endeavors or new growth?\n\nWhat will you prune to encourage new vitality and focus?",
     "theme": "Nature",
@@ -756,12 +744,6 @@
     "tag": ""
   },
   {
-    "title": "Apply Taoist Wu-Wei",
-    "prompt": "Consider this situation through the Taoist concept of Wu-Wei (无为)—'non-action' or 'effortless action'—an alignment with the natural flow of the Tao that achieves without forcing.\n\n*   Where might you be struggling against the natural current of events?\n*   How could you align your actions with existing momentum rather than opposing it?\n*   What might emerge if you allow things to unfold according to their inherent nature?\n\nDescribe how embodying 'action through non-action' might paradoxically lead to effective outcomes with minimal resistance.",
-    "theme": "Religion",
-    "tag": ""
-  },
-  {
     "title": "Consult the I Ching",
     "prompt": "Approach this situation as if consulting the I Ching (Book of Changes), the ancient Chinese divination text. Rather than actually casting hexagrams, mentally engage with its core philosophy of change and balance.\n\n*   What opposing yet complementary forces (yin/yang) are at work in this situation?\n*   What is in process of transformation from one state to another?\n*   What unchanging principles might provide guidance amid change?\n\nDescribe how viewing this situation as a specific moment within larger cycles of change might reveal its true nature and suggest a harmonious path forward.",
     "theme": "Religion",
@@ -782,12 +764,6 @@
   {
     "title": "Deploy Soft Power",
     "prompt": "Following Joseph Nye's concept of 'soft power,' consider how attraction and persuasion might be more effective than coercion or payment in this situation.\n\n*   What cultural, intellectual, or moral resources could you leverage to attract others to your position?\n*   How might you frame your approach to align with widely shared values or aspirations?\n*   What legitimacy or credibility might be built through collaborative rather than confrontational methods?\n\nDescribe how strategically applying soft power might achieve your objectives while building long-term influence and goodwill.",
-    "theme": "Politics",
-    "tag": ""
-  },
-  {
-    "title": "Apply Game Theory",
-    "prompt": "Analyze this situation using game theory principles from political science, examining how strategic interactions shape outcomes when decisions depend on others' choices.\n\n*   What type of 'game' is this—zero-sum, positive-sum, prisoner's dilemma, chicken, or stag hunt?\n*   What are the payoff structures for different combinations of choices?\n*   How might you alter incentives, signal commitments, or build trust to achieve better equilibrium?\n\nDetail how this mathematical approach to strategic interaction might reveal optimal strategies when dealing with rational actors pursuing their own interests.",
     "theme": "Politics",
     "tag": ""
   },
@@ -978,8 +954,8 @@
     "tag": ""
   },
   {
-    "title": "Apply Derridean Différance",
-    "prompt": "Deconstruct this situation through Derrida's concept of différance—the endless deferral of meaning where presence contains absence, where definition relies on what it excludes.\n\nIdentify binary oppositions structuring your thinking (presence/absence, solution/problem, success/failure).\n\n*   How might each term secretly harbor its opposite?\n*   Where do you find the 'trace' of what's supposedly excluded?\n*   How can you exploit the undecidability at the heart of key concepts?\n\nDescribe how dwelling in this unresolved space—neither accepting nor rejecting these dichotomies—might generate creative perspectives beyond binary thinking.",
+    "title": "Chase the Meaning That Keeps Moving",
+    "prompt": "Pin down the central concept. Define it precisely. Now watch it slip.\n\nEvery definition leans on what it excludes. 'Success' means nothing without 'failure.' 'Inside' dissolves without 'outside.' The meaning you're chasing is always one step ahead, defined by the ghost of what it isn't.\n\nStop trying to pin it down. What if the slippage IS the insight? What lives in the gap between what a word means and what it almost means? What could you build in that restless space?",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -1040,12 +1016,6 @@
   {
     "title": "Channel the Medieval Guild System",
     "prompt": "Medieval guilds combined quality control, knowledge transfer, and market regulation through a structured system of apprentices, journeymen, and masters.\n\n*   How might clearly defined stages of expertise development improve quality in your context?\n*   What tacit knowledge needs to be preserved and transmitted through direct mentorship rather than formal documentation?\n*   How could you create both collaboration and healthy competition within a community of practice?\n\nConsider how incorporating elements of the guild system—shared standards, skill progression, collective reputation, and mutual support—might foster excellence and innovation while maintaining tradition. What would be your masterpiece?",
-    "theme": "History",
-    "tag": ""
-  },
-  {
-    "title": "Apply Silk Road Trading Principles",
-    "prompt": "For centuries, the Silk Road facilitated exchange between civilizations despite vast distances, language barriers, and cultural differences.\n\n*   What valuable commodities (ideas, resources, skills) do you have to trade, and what do you seek from distant 'kingdoms'?\n*   How can you establish trustworthy intermediaries or caravanserai (safe trading posts) to facilitate exchange across boundaries?\n*   What cultural translation is needed to make your offerings valuable in different contexts?\n\nConsider how establishing durable trade routes across organizational, disciplinary, or cultural barriers might enrich your work through exposure to radically different perspectives and resources. What would be your silk, spices, or porcelain?",
     "theme": "History",
     "tag": ""
   },
@@ -1113,6 +1083,390 @@
     "title": "Channel Hanseatic League Cooperation",
     "prompt": "For centuries, the Hanseatic League dominated northern European trade through a loose confederation of cities that coordinated for mutual benefit while maintaining independence.\n\n* How might you form a network of autonomous peers who advance common interests without central control?\n* What standardized practices or protocols would facilitate seamless interaction?\n* How could shared defense against external threats strengthen internal cooperation?\n\nConsider the Hanseatic approach: establish trading posts in strategic locations, develop shared legal frameworks for dispute resolution, protect members from outside interference, and create exclusive access to valuable markets. What would be your Lübeck Law?",
     "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Taste the Mise en Place",
+    "theme": "Experimental",
+    "tag": "",
+    "prompt": "Every great dish begins long before the flame is lit. Vegetables chopped, spices measured, sauces reduced, everything in its place — mise en place. The cooking itself is just assembly.\n\nWhat would your mise en place look like? What needs to be prepped, measured, and arranged before the heat goes on? What are you trying to cook and chop at the same time — and why does it keep burning?\n\nThe secret every chef knows: cooking is 90% preparation. The fire is the easy part."
+  },
+  {
+    "title": "Read the Palate Cleanser",
+    "theme": "Experimental",
+    "tag": "",
+    "prompt": "Between courses, a sorbet. Between intense flavors, something neutral. The palate cleanser exists not as a dish in itself, but as a reset — a return to zero so the next taste arrives fresh.\n\nWhere does your situation need a palate cleanser? What intensity has been building so long that nothing new can be tasted? What small, neutral intervention could reset perception and make the next thing arrive with full impact?\n\nSometimes the most important course is the one with no flavor at all."
+  },
+  {
+    "title": "Listen to the Overtones",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "Strike a single note and a dozen others ring silently inside it. The fundamental is just the loudest voice in a choir you never asked to sing. Overtones, harmonics, sympathetic vibrations — the note you hear is never the only note that sounds.\n\nWhat overtones are ringing in this situation? What secondary frequencies were activated by the primary action? Which distant strings are vibrating in sympathy with what you set in motion?\n\nThe richness of a sound isn't in the note. It's in everything the note awakens."
+  },
+  {
+    "title": "Find the Countermelody",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "The melody gets all the attention. But underneath, a countermelody moves in its own direction — sometimes parallel, sometimes contrary, always in conversation. Neither is complete without the other.\n\nWhat countermelody runs beneath the dominant narrative here? What quieter, independent line is moving in its own logic? How does it support, complicate, or enrich the main theme?\n\nThe most interesting music happens in the space between voices that don't quite agree."
+  },
+  {
+    "title": "Develop in the Dark",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "The photograph already exists on the film. The darkroom doesn't create the image — it reveals what the light already wrote. But timing matters: too little development and the image stays faint; too much and it burns to black.\n\nWhat latent image exists in your situation, already captured but not yet visible? What gentle process of development — not creation, but revelation — would bring it forward? And when do you stop? When do you pull it from the bath before you lose the subtlety?\n\nSome things need darkness to become visible."
+  },
+  {
+    "title": "Set the Type",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "A single letter means nothing. But set it beside another, adjust the space between them until the rhythm breathes, choose where to break the line — and suddenly, meaning pours through the gaps.\n\nWhat needs to be set, not written? Where is the meaning hiding not in the content but in the spacing, the arrangement, the breaks between elements? What changes if you adjust the kerning — the negative space between things — without changing the things themselves?\n\nTypography is the art of making language visible. What would it mean to make your invisible structure readable?"
+  },
+  {
+    "title": "Check the Fermentation",
+    "theme": "Nature",
+    "tag": "",
+    "prompt": "You can't rush fermentation. You set the conditions — temperature, moisture, the right cultures — and then you wait while invisible organisms transform the raw material into something entirely new. Too much intervention kills the process. Too little attention and it spoils.\n\nWhat in your situation needs to ferment? What transformation requires patience, not force? What conditions can you set, then step back from? And how do you know the difference between healthy fermentation and rot?\n\nThe best things in life — bread, wine, cheese, kimchi — are all controlled decay."
+  },
+  {
+    "title": "Read the Grain",
+    "theme": "Other",
+    "tag": "",
+    "prompt": "Every piece of wood has a grain — a direction it wants to go, born from years of growth, weather, and stress. Cut with it and the blade glides. Cut against it and the wood fights you, tears, splinters.\n\nWhat is the grain of this situation? What direction does it naturally want to move? Where have you been cutting against it, mistaking the splintering for the material's fault rather than your approach?\n\nMaster craftspeople don't impose their will on the material. They read its grain and let it guide the cut."
+  },
+  {
+    "title": "Adjust the Exposure Triangle",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "Every photograph is a negotiation between three constraints: aperture (how much light enters), shutter speed (how long it enters), and sensitivity (how the sensor responds). Change one and the others must compensate. There is no 'correct' setting — only trade-offs that reveal different truths.\n\nWide open aperture blurs everything but the subject. Slow shutter speed captures motion as a stream. High sensitivity reveals what's hidden in darkness but introduces noise.\n\nWhat are the three competing constraints in your situation? What truth does each trade-off reveal? What are you willing to sacrifice for what you want to see?"
+  },
+  {
+    "title": "Study the Tide Tables",
+    "theme": "Nature",
+    "tag": "",
+    "prompt": "The harbor that's navigable at high tide becomes a mudflat at low. The channel that's safe in the morning is deadly by afternoon. The water doesn't care about your schedule.\n\nWhat tides — cyclical, predictable, but often ignored — govern your situation? What windows open and close regardless of your readiness? What channels are you trying to navigate at the wrong depth?\n\nThe best sailors don't fight the tide. They read the tables and time their passage."
+  },
+  {
+    "title": "Strip the Varnish",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "Centuries of varnish darken a painting until the original colors are unrecognizable. Restorers work with solvents, cotton swabs, and agonizing patience — removing layer after layer of accumulated protection until the first brushstrokes breathe again.\n\nWhat accumulated layers are darkening your situation? What well-intentioned protections, policies, or processes have built up until the original intent is barely visible? What careful stripping — slow, one layer at a time — might reveal colors nobody remembers were there?\n\nGo slowly. The original surface is fragile. But it's been waiting to be seen."
+  },
+  {
+    "title": "Run the Differential",
+    "theme": "Science",
+    "tag": "",
+    "prompt": "A doctor doesn't see a symptom and leap to treatment. She generates a differential — a list of everything that could produce this presentation, ranked by probability and severity. Then she tests, ruling out the dangerous before confirming the likely.\n\nWhat is your differential diagnosis? What are all the possible causes of what you're seeing — not just the obvious one? Which dangerous explanation should you rule out first, even if it seems unlikely?\n\nThe most dangerous diagnosis is the one you never considered."
+  },
+  {
+    "title": "Find the Bearing Wall",
+    "theme": "Architecture",
+    "tag": "",
+    "prompt": "Some walls hold up the building. Others just divide rooms. They look identical, but remove a bearing wall and the ceiling comes down. Remove a partition wall and you get open plan.\n\nWhat in your situation is load-bearing? What elements look like they could be removed or changed, but are actually holding up everything above them? And what looks structural but is actually just a partition — removable without consequence?\n\nBefore you renovate, know which walls you can't touch."
+  },
+  {
+    "title": "Tune to the Room",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "A symphony tuned for a concert hall sounds muddy in a cathedral. A jazz trio perfect in a club disappears in an arena. The music doesn't change — the room does. And the room always wins.\n\nWhat room are you playing in? What are its acoustics — what does it amplify, what does it absorb, what does it distort? Are you composing for the room you're actually in, or the room you wish you were in?\n\nStop blaming the music. Listen to the room."
+  },
+  {
+    "title": "Map the Watershed, Not the River",
+    "theme": "Nature",
+    "tag": "",
+    "prompt": "Everyone watches the river. But the river is just where the watershed becomes visible. Every raindrop that falls on every hillside, every field's runoff, every tributary's contribution — the river is the sum of everything upstream.\n\nWhat watershed feeds the situation you're watching? What distant hillsides, far from the riverbank, are contributing flow you can't see from where you're standing? Where would an intervention upstream change everything downstream?\n\nYou can't understand a river by looking at it. You have to walk the watershed."
+  },
+  {
+    "title": "Practice the Oulipo Constraint",
+    "theme": "Experimental",
+    "tag": "",
+    "prompt": "Write an entire novel without the letter 'e.' Compose a poem where each line is one word longer than the last. Build a story that reads the same forward and backward.\n\nThe Oulipo writers discovered that arbitrary constraints don't limit creativity — they detonate it. The impossible rule forces you into corridors of thought you'd never enter voluntarily. And in those corridors, you find things that freedom would never have revealed.\n\nWhat absurd constraint could you impose on this situation? What would you discover if one obvious tool were suddenly forbidden?"
+  },
+  {
+    "title": "Read the Stratigraphy",
+    "theme": "History",
+    "tag": "",
+    "prompt": "Every layer tells a different story. Sand, then clay, then ash, then sand again — each stratum is a chapter written in the language of what was deposited, what was eroded, and what catastrophe left its thin dark line between epochs.\n\nYour situation has strata too. What was the earliest layer? What built up slowly, and what arrived in a sudden deposit? Where can you see the unconformity — the gap where time is simply missing, where something was eroded away before the next layer covered the evidence?\n\nDig carefully. The most important layer is often the thinnest."
+  },
+  {
+    "title": "Observe the Predator-Prey Cycle",
+    "theme": "Science",
+    "tag": "",
+    "prompt": "When the lynx population booms, the hare population crashes. When the hares vanish, the lynx starve. When the lynx decline, the hares return. The two populations are locked in an eternal dance — each driving the other's fortune in beautiful, terrible waves.\n\nWhat coupled oscillations drive your situation? What two forces rise and fall in response to each other? Where has an intervention on one side produced the exact opposite effect on the other, because you forgot they were coupled?\n\nYou can't understand one population without understanding what hunts it and what it hunts."
+  },
+  {
+    "title": "Score the Silence",
+    "theme": "Art",
+    "tag": "",
+    "prompt": "John Cage sat at a piano for 4 minutes and 33 seconds and played nothing. The audience heard everything — their own breathing, the rustle of programs, rain on the skylight, the hum of the building. The silence was the score.\n\nWhere could you score a deliberate silence? What would become audible if you stopped filling every moment with signal? What ambient information — the background noise of your situation — has been drowned out by your own performance?\n\nThe most important thing in this situation might be the thing you hear when you finally stop talking."
+  },
+  {
+    "title": "Follow the Thread Count",
+    "theme": "Other",
+    "tag": "",
+    "prompt": "A 200-thread-count sheet and a 1000-thread-count sheet use the same material. The difference is density — how tightly the threads are packed per square inch. Higher count means finer weave, smoother hand, less visible structure. But also: less breathability, more rigidity, higher cost.\n\nWhat is the thread count of your approach? Are you weaving too loosely — gaps where things fall through, visible structure that should be invisible? Or too tightly — so dense that nothing can breathe, every thread accounted for but the fabric suffocates?\n\nWhat would the right thread count feel like? Not the finest possible — the most appropriate."
+  },
+  {
+    "title": "Season in Layers",
+    "prompt": "Every great stock is built in stages. The mirepoix goes in first — slow, patient, foundational. Aromatics later. Salt at the end. Each layer of flavor needs time to develop before the next one joins.\n\nWhere are you trying to add all the seasoning at once? What foundational flavor is missing because you skipped straight to the finishing salt? What needs to cook low and slow before anything else goes in?\n\nDepth doesn't come from more ingredients. It comes from patience with each one.",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Know When It's Overworked",
+    "prompt": "Knead bread dough just enough and the gluten develops — elastic, supple, alive. Keep going past that point and it tears, turns tough, refuses to rise. The dough tells you when to stop, if you're paying attention.\n\nWhat in your situation has been handled past its ideal point? Where has productive refinement crossed into destructive overwork? What needs you to take your hands off and let it rest?\n\nSometimes the best thing you can do for something is stop touching it.",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Deglaze the Pan",
+    "prompt": "After the searing heat, the fond — those caramelized bits stuck to the bottom of the pan. They look like burnt residue. They're actually concentrated flavor. A splash of wine, a wooden spoon, and everything dissolves into richness.\n\nWhat's stuck to the bottom of your process? What looks like residue or failure but is actually concentrated insight? What solvent — a new question, a different perspective, a conversation — could release it?\n\nThe best sauces are made from what everyone else scrapes into the trash.",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Cut on the Action",
+    "prompt": "An editor cuts from one angle to another in the middle of a movement — a hand reaching for a door, a head turning. The brain fills in the gap seamlessly. Cut between movements and the audience feels the edit. Cut during one and they feel the story.\n\nWhere could you make your transitions invisible by timing them to moments of motion? What changes feel jarring because they happen in stillness? What action is already in progress that could carry a shift without anyone noticing?\n\nThe best edits are the ones nobody sees.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Hold the Wide Shot",
+    "prompt": "The instinct is always to cut closer. More detail. More focus. More zoom. But sometimes the wide shot — holding back, refusing to narrow — tells a story that close-ups can't. Context. Relationship. Scale. The thing in its world.\n\nWhere have you been cutting too close? What context have you cropped out in pursuit of detail? What would you see if you pulled back far enough to fit the whole scene in frame?\n\nSometimes the most revealing shot is the one that shows everything at once.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Watch the Background",
+    "prompt": "In great films, the background tells a different story than the foreground. While the actors speak, something unfolds behind them — a figure crossing a window, a change of light, a world continuing without permission.\n\nWhat's happening in the background of your foreground story? What secondary narrative is unfolding while everyone watches the main action? What would you notice if you deliberately unfocused from the protagonist?\n\nThe background never lies. It just waits to be noticed.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Find the Invariant",
+    "prompt": "Everything changes — but something doesn't. In mathematics, the invariant is the property that survives transformation. Rotate a sphere and its volume stays constant. Shuffle a deck and the number of cards remains. The invariant is what the chaos can't touch.\n\nWhat stays constant no matter how much everything else shifts? What property survives every transformation you've thrown at this situation? What is genuinely unchangeable here — not by choice, but by structure?\n\nFind the invariant. It's the one fixed point around which everything else is free to move.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Check the Boundary Conditions",
+    "prompt": "The equation works beautifully in the middle. It's at the edges — where x approaches zero, or infinity, or flips sign — that the real behavior reveals itself. Boundary conditions expose what the smooth interior conceals.\n\nWhat happens at the extremes of your situation? When resources hit zero? When scale approaches infinity? When a key assumption reverses? What breaks, what holds, and what behaves in ways the middle never predicted?\n\nThe edges are where the truth lives. The center is where the approximations work.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Spot the Off-by-One Error",
+    "prompt": "The most common bug in programming. The fence has 10 posts but only 9 gaps between them. You count to 10 but visit 11 positions. The error is always exactly one — small enough to miss, consequential enough to ruin everything.\n\nWhere is your off-by-one error? What are you counting wrong by the smallest possible margin? What boundary have you placed one step too early or one step too late? Where is the gap between what you think you're measuring and what you're actually measuring exactly one unit wide?\n\nThe deadliest errors aren't the dramatic ones. They're the ones hiding in a single digit.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Take the History Before the Scan",
+    "prompt": "Before imaging, before blood work, before any technology — the patient history. When did it start? What makes it worse? What makes it better? Has this happened before? The most expensive diagnostic tool in the hospital is a doctor who listens.\n\nWhat questions haven't you asked yet? What would the history of this situation reveal if someone sat down and actually took it — methodically, patiently, from the beginning? What expensive analysis are you reaching for when a simple conversation would tell you more?\n\nThe scan confirms. The history diagnoses.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Observe the Referred Pain",
+    "prompt": "The heart attack presents as jaw pain. The diaphragm irritation feels like shoulder ache. The body routes distress through unexpected channels — the pain shows up far from its source, misleading everyone who takes it at face value.\n\nWhere is the pain you're seeing actually referred from somewhere else? What distant source is expressing itself through a local symptom? What would shift if you stopped treating where it hurts and started looking for where it originates?\n\nFollow the nerve, not the complaint.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Respect the Therapeutic Window",
+    "prompt": "Too little medicine does nothing. Too much is toxic. The therapeutic window — that narrow band where the dose is both effective and safe — is everything. And it's different for every patient.\n\nWhat is the therapeutic window for your intervention? Where is the dose too low to produce effect? Where does it cross into toxicity? How narrow is that band, and are you even inside it?\n\nMore is not better. Less is not safer. Right is right, and the margin may be thinner than you think.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Train the Antagonist Muscle",
+    "prompt": "Every powerful movement depends on the opposing muscle group. The punch's power comes from the back, not the arm. The kick's stability comes from the standing leg, not the kicking one. Neglect the antagonist and the whole system breaks down.\n\nWhat opposing force or capability have you been neglecting? What invisible counterpart makes your primary strength possible? Where would training the opposite of what seems important actually improve the thing you care about?\n\nStrength isn't just about the muscle you're using. It's about the one holding everything else in place.",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Call the Play at the Line",
+    "prompt": "The coach sends in the play. But the quarterback reads the defense, sees something the sideline can't, and audibles — changes the call at the last second based on what's actually in front of them.\n\nWhat plan are you running that no longer matches the defense you're facing? What can you see from the field that the original strategy couldn't anticipate? When is it time to trust what's in front of you over what was decided from a distance?\n\nThe best plays are the ones that adapt to reality. Call the audible.",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Find the Selvedge",
+    "prompt": "The selvedge is the self-finished edge of woven fabric — where the weft thread turns back on itself, creating a boundary that won't unravel. No hemming required. The structure completes itself.\n\nWhere does your work naturally finish itself? What edges need no external binding because the process itself creates a clean boundary? And where are you hemming frantically at edges that keep fraying because there's no selvedge — no self-completing structure?\n\nDesign the selvedge into the process. Let the edge finish itself.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Read the Warp and Weft",
+    "prompt": "The warp runs vertically, held taut on the loom — the structural backbone, set before any weaving begins. The weft crosses horizontally, carrying the pattern, the color, the visible design. You see the weft. You depend on the warp.\n\nWhat is the warp of your situation — the tension-bearing structure nobody sees? What is the weft — the visible pattern everyone notices? What happens if the warp breaks? And what would change if you redesigned the invisible foundation while keeping the visible pattern identical?\n\nThe cloth shows you the weft. The loom knows the warp.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Triangulate Your Position",
+    "prompt": "One bearing gives you a line. Two bearings give you a point. Three bearings give you confidence. Without triangulation, you know your direction but not your location.\n\nHow many independent reference points are you using to fix your position? Are you navigating by a single bearing — one data source, one perspective, one metric? What second and third bearings would confirm or correct where you actually are?\n\nOne signal is a guess. Three signals are a position.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Correct for Magnetic Declination",
+    "prompt": "The compass points to magnetic north. But magnetic north isn't true north — and the difference varies depending on where you stand. Navigators who forget the declination end up miles from their destination, perfectly convinced they're on course.\n\nWhat is the declination in your compass? What systematic bias sits between what your instruments tell you and where you actually need to go? Are you correcting for it, or are you confidently heading in a direction that's off by a few critical degrees?\n\nTrust the compass, but know its error.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Read the Spatter Pattern",
+    "prompt": "Blood spatter analysis tells you angle of impact, velocity, distance, sequence. The drops don't lie — their shape, size, and distribution reconstruct events that nobody witnessed. The evidence writes its own narrative.\n\nWhat spatter pattern has your situation left behind? What distribution of effects — complaints, errors, successes, anomalies — tells a story about an impact you didn't see? Can you read the pattern backward to reconstruct the event that created it?\n\nDon't ask what happened. Read what was left behind.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Establish the Chain of Custody",
+    "prompt": "Evidence means nothing if you can't prove it hasn't been tampered with. Every hand it passes through, every moment it's unaccounted for, weakens its authority. The chain of custody isn't about the evidence — it's about trust.\n\nWhat is the chain of custody for your information? How many hands has it passed through? At what point could it have been altered, reinterpreted, or selectively filtered? Where are the gaps in the chain where trust breaks down?\n\nIt's not enough to have the evidence. You need to prove nobody touched it on the way to you.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Wait for the Transit",
+    "prompt": "When a planet crosses in front of its star, the light dips — barely perceptibly, but measurably. That's how we find worlds we can't see directly: by the shadow they cast on something brighter. But you have to be watching at the right time, in the right direction, with enough patience.\n\nWhat are you trying to observe directly that can only be detected by its effect on something else? What shadow, what dip, what subtle dimming would reveal the thing you can't see? And are you watching patiently enough to catch the transit when it happens?\n\nSome things can only be found by the absence they create.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Account for the Observer Effect",
+    "prompt": "The act of measuring a quantum system changes it. The thermometer inserted into the liquid alters its temperature. The survey changes the opinion. You cannot observe without participating.\n\nHow is your observation changing what you're observing? What would this situation look like if you weren't watching it? Where has the act of measurement itself produced the result you're measuring?\n\nYou are never outside the experiment. Factor yourself into the equation.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Think in Reverse",
+    "prompt": "The printmaker carves the mirror image. What's cut away will be white. What remains will print. Every mark is its own negative — you must think backward to see forward, remove to add, reverse to arrive.\n\nWhat would this look like in reverse? What needs to be subtracted to create the positive image? Where are you adding when you should be carving away? What would emerge if you built the negative space and let the positive reveal itself?\n\nSometimes the only way to see what you want is to cut away everything that isn't it.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Layer the Impression",
+    "prompt": "A four-color print requires four separate passes through the press — cyan, then magenta, then yellow, then black. Each layer alone looks wrong. Only when all four combine does the full image appear. And registration must be perfect — a hair's width off and the whole thing blurs.\n\nWhat separate layers need to align perfectly to produce the result you want? What looks wrong in isolation but is actually one essential pass of many? Where is your registration off — layers slightly misaligned, creating blur instead of sharpness?\n\nThe image only exists in the combination. No single layer tells the truth.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Find the Heat Color",
+    "prompt": "A blacksmith doesn't use a thermometer. She reads the color of the steel — cherry red for bending, bright yellow for welding, white for forging. Too cold and the metal cracks. Too hot and the grain structure is ruined forever. The color tells her everything.\n\nWhat color is your material right now? Is it workable — hot enough to shape, cool enough to hold? Where are you hammering on cold metal, wondering why it cracks? Where have you overheated something past the point of structural integrity?\n\nLearn to read the heat. The material will tell you when it's ready.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Quench at the Right Moment",
+    "prompt": "Hardening steel requires heating it past critical temperature, then plunging it into oil or water. Too soon and it stays soft. Too late and internal stresses shatter it. The quench — the moment of rapid, decisive change — must come at exactly the right time.\n\nWhen is the quench moment for your situation? What has been heated to the point where rapid, decisive action would lock in the transformation? Where are you letting something cool slowly when a sudden shock would create the hardness you need?\n\nSome things only become strong through shock. But timing is everything.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Find the Callback",
+    "prompt": "The callback brings back an earlier joke in a new context — and the recognition itself produces the laugh. It rewards attention, creates pattern, and proves that everything was connected all along. The audience delights in seeing the thread they didn't know they were holding.\n\nWhat forgotten element from earlier in this process could return now, transformed by context, to create an unexpected connection? What would your audience (users, stakeholders, collaborators) recognize and delight in if you brought it back?\n\nThe callback proves you were paying attention. And it proves the story was always whole.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Land the Dismount",
+    "prompt": "In gymnastics, the hardest move is often the last one. The routine can be flawless, but a stumbled landing undermines everything that came before. The dismount is disproportionately important — it's the last thing the judges (and the audience) remember.\n\nHow does this thing end? What's the last impression, the final moment, the landing? Are you putting as much craft into the dismount as you put into the routine? What would a stuck landing look like?\n\nNobody remembers the middle. They remember how it ended.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Read the Indicator Species",
+    "prompt": "Canaries in coal mines. Lichens that vanish when air quality drops. Frogs that disappear before the ecosystem visibly degrades. Indicator species are the early warning system — they respond to changes the rest of the system hasn't felt yet.\n\nWhat are the indicator species in your situation? What sensitive element would respond first to degradation? What's already showing stress that the rest of the system hasn't registered? What canary should you be watching?\n\nBy the time the obvious signs appear, the indicator species has been gone for months.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Study the Ecotone",
+    "prompt": "The ecotone is the transition zone between two ecosystems — where forest meets grassland, where river meets sea. It's the edge, and it's where biodiversity explodes. Species from both systems meet here, and entirely new ones emerge that exist nowhere else.\n\nWhere are the ecotones in your situation — the borders between different domains, teams, disciplines, or approaches? What thrives specifically at these boundaries that can't survive in either pure environment? What unique species of idea or capability could you cultivate at the edges?\n\nThe richest territory is always the borderland.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Center the Clay",
+    "prompt": "Before you can shape anything on the wheel, the clay must be centered — perfectly balanced on the axis of rotation. Off-center clay wobbles, fights your hands, produces crooked walls. The centering takes longer than the shaping, and nobody sees it in the finished piece.\n\nWhat needs to be centered before you can begin shaping? What wobble in your foundation is making everything downstream fight you? What patient, invisible work would make everything that follows easier?\n\nThe pot doesn't know it was centered. But it knows when it wasn't.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Trust the Kiln",
+    "prompt": "You've shaped the piece. You've glazed it with care. Now you put it in the kiln, close the door, and surrender control. The fire will do things you can't predict — colors shift, glazes run, surfaces crackle. Some pieces shatter. Others emerge transformed in ways you never planned.\n\nWhat needs to go through the fire? What has been shaped and prepared but now needs a transformation you can't control? Where do you need to close the door and let the heat do its work?\n\nThe kiln doesn't take orders. But it finishes what your hands started.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Find the Counterbalance",
+    "prompt": "In partnered dance, the most dynamic positions come from counterbalance — two bodies leaning away from each other, held together by shared weight. Remove one partner and the other falls. The tension between them creates shapes neither could achieve alone.\n\nWhat are you trying to hold alone that requires a counterbalance? What opposite force would let you lean further than you can stand on your own? What shape becomes possible only when two opposing tensions agree to trust each other?\n\nYou can't lean this far without someone leaning the other way.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Dance the Phrase, Not the Step",
+    "prompt": "Beginners learn steps. They count: one-two-three, one-two-three. But the dance lives in the phrase — the arc that stretches across eight bars, rising and falling, breathing as a single continuous thought. Steps are syllables. The phrase is the sentence.\n\nAre you thinking in steps or phrases? Are you optimizing individual moments or shaping a continuous arc? What would change if you stopped counting beats and started breathing through the whole movement?\n\nThe audience never sees the steps. They feel the phrase.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Translate the Untranslatable",
+    "prompt": "Every language has words with no equivalent elsewhere. Saudade. Hygge. Wabi-sabi. Tsundoku. These aren't gaps in vocabulary — they're entire experiences that one culture perceives and another doesn't have the lens to see.\n\nWhat untranslatable concept lives in your situation — something everyone involved feels but nobody has a word for? What would change if you named it? What new perception becomes available when the unnamed gets a name?\n\nThe word doesn't create the feeling. But without the word, the feeling has nowhere to land.",
+    "theme": "Anthropology",
+    "tag": ""
+  },
+  {
+    "title": "Listen for the Register Shift",
+    "prompt": "People switch linguistic registers constantly — formal to casual, technical to emotional, public to private. The shift itself carries meaning. When a colleague drops from boardroom language into kitchen-table talk, that's a signal. When technical jargon suddenly appears in casual conversation, that's a signal too.\n\nWhat register shifts are happening around this situation? Where does the language change — and what does the change reveal about what people actually feel, believe, or fear? Where is formality hiding discomfort? Where is casualness masking seriousness?\n\nThe words matter less than how they're dressed.",
+    "theme": "Anthropology",
+    "tag": ""
+  },
+  {
+    "title": "Measure Twice",
+    "prompt": "The oldest rule in the shop. Not because carpenters are forgetful, but because the cost of a wrong cut is absolute — the wood doesn't grow back. The second measurement isn't redundant. It's insurance against the confidence of the first.\n\nWhat are you about to cut that can't be uncut? Where is the cost of being wrong irreversible? What second measurement — from a different angle, using a different reference — would either confirm your confidence or save you from a mistake you couldn't fix?\n\nMeasuring twice isn't doubt. It's respect for the material.",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Let the Joint Do the Work",
+    "prompt": "A well-made mortise and tenon needs no glue, no screws, no fasteners. The geometry itself creates the strength. The joint holds because the shapes interlock — because the design anticipated the forces and routed them through the structure.\n\nWhere are you fastening things together that should be joined? What external reinforcement are you adding because the underlying connection wasn't designed to carry the load? What would it take to make the joint itself — the way things meet — strong enough to need nothing else?\n\nThe best joints are invisible. The strength lives in the fit.",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Read the Fault Line",
+    "prompt": "The landscape looks stable. But beneath the surface, tectonic plates grind against each other along fault lines — building pressure, storing energy, waiting. When the fault slips, everything above it rearranges in seconds.\n\nWhere are the fault lines in your situation? What opposing pressures are building slowly beneath a stable surface? Where might the sudden release of accumulated tension rearrange everything you've built?\n\nThe earthquake isn't the problem. The problem was all the years of pressure nobody addressed.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Study the Erosion Pattern",
+    "prompt": "Water doesn't carve the Grand Canyon in a day. It takes millions of years of steady, patient flow — each molecule removing one grain of sand. The canyon is the autobiography of the river, written in geological time.\n\nWhat slow, steady forces are carving away at your situation? What patient erosion is reshaping the landscape while everyone focuses on sudden events? What would the autobiography of this process look like if you could read it in the stone?\n\nThe most powerful forces aren't the dramatic ones. They're the ones that never stop.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Graft the Rootstock",
+    "prompt": "The fruit you eat often grows on roots that aren't its own. Apple trees are grafted onto hardy rootstock — the visible tree contributes flavor, the invisible roots contribute resilience. Neither could succeed alone.\n\nWhat strong rootstock could you graft your idea onto? What existing infrastructure, community, or system could provide the invisible support your innovation needs? And what qualities does your innovation bring that the rootstock lacks?\n\nThe sweetest fruit grows on the toughest roots. Neither is the whole tree.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Prune for Shape, Not Just Size",
+    "prompt": "Inexperienced gardeners prune to make things smaller. Master gardeners prune to create shape — opening the canopy to light, directing growth outward or upward, removing what crosses or crowds. Every cut is a decision about future form.\n\nWhat are you pruning to reduce rather than to shape? What cuts would direct growth toward the form you actually want? Where is something crossing or crowding that needs to be removed not because it's bad, but because it's blocking something better?\n\nPruning isn't subtraction. It's sculpture.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Design the Threshold Ritual",
+    "prompt": "Every great building has a moment of arrival — the compression of a low entrance before the release of a soaring nave, the turn that reveals the view, the material change underfoot that says you've crossed from one world into another.\n\nWhat is the threshold ritual for your situation? How does someone know they've arrived? What compression and release could you design to mark the transition from before to after? What changes — in material, in light, in scale — would signal that something important has begun?\n\nThe door is not just an opening. It's a ceremony.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Listen to the Building's Complaints",
+    "prompt": "Every building speaks. The crack in the plaster is a sentence about differential settlement. The mold in the corner is a paragraph about moisture migration. The door that sticks is a thesis about structural movement. You just have to learn the language.\n\nWhat is your system complaining about? What small symptoms — the sticking doors, the hairline cracks, the persistent dampness — are telling you something about forces you haven't addressed? What language is the structure speaking that you haven't learned to read?\n\nBuildings don't lie. They just speak quietly.",
+    "theme": "Architecture",
     "tag": ""
   }
 ]
