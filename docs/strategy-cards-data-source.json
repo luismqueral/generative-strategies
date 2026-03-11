@@ -14,7 +14,7 @@
   {
     "title": "Follow the Resistance",
     "prompt": "A hand plane chatters when the grain changes direction. A drill bit binds when it hits a different material. Resistance is information.\n\nWhere does your work chatter, bind, or slow down? Don't fight through it — read it. What is the resistance telling you about what lies beneath the surface? What change in material or direction has it just revealed?\n\nThe smoothest path teaches you nothing. Every point of friction is a message from the structure itself.",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -62,7 +62,7 @@
   {
     "title": "Embrace the Paradox",
     "prompt": "Identify the seemingly irreconcilable paradoxes in this situation.\nInstead of resolving these tensions, intensify them. Let them become generative forces.\n\nDetail how these amplified paradoxes might create new possibilities beyond simple 'either/or' thinking. What new paths open up?",
-    "theme": "Chaotic",
+    "theme": "Experimental",
     "tag": ""
   },
   {
@@ -92,7 +92,7 @@
   {
     "title": "Apply Strange Attractor Dynamics",
     "prompt": "View this as a chaotic system governed by strange attractors—patterns neither stable nor random, but with constrained unpredictability.\n\nWhat underlying patterns might generate apparent disorder? \n\nDescribe how chaos theory could reveal complex order within seemingly unpredictable situations. Find the pattern in the chaos.",
-    "theme": "Chaotic",
+    "theme": "Experimental",
     "tag": ""
   },
   {
@@ -201,7 +201,7 @@
   {
     "title": "Embrace the Monster",
     "prompt": "What aspects appear threatening, disturbing, or monstrous?\nMove *toward* these elements, not away.\n\nDetail how befriending the monster might transform both your approach and the nature of what initially seemed frightening. What happens when you face the beast?",
-    "theme": "Mythology",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -255,13 +255,13 @@
   {
     "title": "Read the Payoff Matrix",
     "prompt": "Every situation has a hidden scoreboard. The players may not know the rules, but they're playing anyway — choosing cooperation or defection, risk or safety, short-term gain or long-term trust.\n\nMap the invisible incentives. What rewards does the current structure actually offer — not what it claims to reward? Where are rational actors producing irrational outcomes because the payoffs are misaligned?\n\nSometimes the game itself is the problem. Can you change the rules instead of playing better?",
-    "theme": "Science",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Invoke the Trickster",
     "prompt": "How might playful disruption, creative mischief, or strategic disorder transform this situation?\nInvite the trickster spirit to overturn assumptions and patterns.\n\nDescribe how this subversive energy might reveal truths that seriousness could never uncover. Time for some clever chaos.",
-    "theme": "Chaotic",
+    "theme": "Experimental",
     "tag": ""
   },
   {
@@ -322,7 +322,7 @@
   {
     "title": "Unmask the Performance",
     "prompt": "Everything here is rehearsed. The categories you treat as natural — the boundaries between roles, the distinctions between types, the labels on everything — exist only because someone keeps performing them. Stylized repetition, day after day, until the costume becomes confused with the skin.\n\nStop performing for a moment. What categories dissolve when nobody rehearses them? What boundaries exist only because everyone agrees to see them? What would happen if someone simply forgot their lines?\n\nThe most radical act might be to stop pretending these divisions were ever real.",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -413,49 +413,49 @@
   {
     "title": "Channel the Color Pie",
     "prompt": "Consider your challenge through the lens of Magic: The Gathering's five colors. How would each approach this?\n\n*   **White (Order, Protection, Community):** What structures or safeguards are needed? How can we unite efforts for the common good?\n*   **Blue (Knowledge, Manipulation, Intellect):** What information is key? Can we outthink the problem with a clever trick, new insight, or superior information?\n*   **Black (Ambition, Sacrifice, Self-interest):** What must be sacrificed for power or the ultimate goal? What is the most direct, albeit potentially costly, path to victory?\n*   **Red (Freedom, Impulse, Chaos):** Can we break through with sudden, decisive action? What if we embraced unpredictability and passion?\n*   **Green (Growth, Nature, Interdependence):** How can this develop organically? What are the natural strengths, instincts, and connections to leverage for robust growth?\n\nDetail a plan for each, then choose or synthesize the most potent combination to cast your solution.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Scry the Top Three",
     "prompt": "Like a well-timed Scry in Magic, look ahead: what are the next three most likely outcomes, obstacles, or decision points?\n\nFor each:\n1.  Detail one action you could take *now* to improve your position or alter its trajectory.\n2.  Decide: would you keep this 'card' on top of your library, or send it to the bottom?\n\nHow does this foresight change your immediate next step? Plan your draws.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Resolve a Saga",
     "prompt": "Envision this project as a three-chapter Magic Saga enchantment:\n\n*   **Chapter I (Lore):** What foundational lore or setup initiates the Saga? What's the opening scene?\n*   **Chapter II (Transformation):** What is the transformative action or turning point? What dramatic event unfolds?\n*   **Chapter III (Resolution):** What is the lasting impact or new reality once the Saga concludes? What is the final, powerful effect?\n\nDetail how each chapter builds upon the last to achieve a legendary outcome.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Activate the Artifact",
     "prompt": "Identify a core assumption, process, or overlooked asset that functions like a powerful Magic artifact with a hidden, game-changing activated ability.\n\nWhat 'mana cost' (resources, effort, risk, unconventional thinking) is required to activate it?\nWhat potent effect, perhaps one not originally intended for this 'artifact,' could it produce if tapped?\n\nDescribe how activating this latent power might bypass a standard limitation or create an unexpected advantage. Tap into hidden power.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Mulligan to Perfection",
     "prompt": "If your current strategy or initial resources were your opening hand in a high-stakes game, would you keep it or take a mulligan?\n\nDetail what a 'perfect hand' (ideal starting conditions, resources, insights) for this challenge would look like.\nWhat elements of your current 'hand' would you discard? What are you hoping to 'draw' by re-evaluating, even if it means starting with fewer resources (a metaphorical card down)?\n\nIs it time to reshuffle and redraw?",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Exploit the Mana Curve",
     "prompt": "Map your project's timeline and milestones against a Magic 'mana curve':\n\n*   **'One-drop' quick wins:** Early, low-cost actions for immediate impact.\n*   **'Mid-game' plays:** Significant developments requiring moderate resources.\n*   **'Late-game bomb':** The ultimate goal or high-impact deliverable.\n\nIs your resource allocation and timing optimized like a well-constructed deck, or do you need to rebalance your curve for better tempo and impact? Smooth out your plays.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Design Your Sideboard",
     "prompt": "Consider the primary challenges or 'opponent archetypes' this project might face (e.g., resource scarcity, shifting requirements, technical hurdles, stakeholder skepticism).\n\nDevelop a 'sideboard' of 3-5 alternative tactics, tools, or approaches you could swap in if your main strategy proves ineffective.\n\nHow does preparing these contingencies increase your project's resilience and adaptability? Always have a plan B (and C, and D).",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Flip the Morph",
     "prompt": "What aspect of this situation is like a 'Morph' creature—an unknown quantity, hidden potential, or unrevealed truth currently face down?\n\nWhat would it 'cost' (effort, investigation, risk) to 'flip it face up'?\nWhat unexpected ability, advantage, or critical information might be revealed?\n\nHow could that surprise turn the tide or fundamentally alter your understanding of the 'board state'? Uncover the mystery.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
@@ -473,7 +473,7 @@
   {
     "title": "Enact the Ritual of Release",
     "prompt": "What outdated assumptions, emotional baggage, or sunk costs are you still carrying regarding this project or situation?\n\nDesign a symbolic ritual to consciously release these burdens.\nThis could be anything from writing them down and burning the paper, to a mental visualization, to a team-based symbolic act.\n\nDescribe the ritual. More importantly, what shifts in perspective or available energy do you anticipate *after* this intentional act of letting go?",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -491,7 +491,7 @@
   {
     "title": "Deconstruct the Archetype",
     "prompt": "What dominant archetypes (e.g., the Hero, the Mentor, the Trickster, the Innocent) are consciously or unconsciously shaping perceptions or actions within this situation?\n\nIdentify one or two key archetypes at play.\n\nThen, deconstruct them:\n*   What are their underlying assumptions and expectations?\n*   What limitations or blind spots do they impose?\n*   What happens if you invert the archetype, or blend it with an unexpected counterpart?\n\nExplore how stepping outside these archetypal roles might open up new behaviors or solutions.",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -563,7 +563,7 @@
   {
     "title": "Invoke the Unreliable Narrator",
     "prompt": "Every story is told from a perspective, and narrators can be unreliable, biased, or have incomplete information. Consider the dominant narrative or explanation for this situation.\n\nNow, imagine it's being told by an 'unreliable narrator.'\n\n*   What might they be misinterpreting, omitting, or deliberately distorting?\n*   What alternative narratives become possible if the primary one is flawed?\n*   How does questioning the narrator's reliability open up new interpretations or avenues for investigation?\n\nRewrite a key part of the story from a deliberately unreliable (but plausible) viewpoint.",
-    "theme": "Philosophy",
+    "theme": "Art",
     "tag": ""
   },
   {
@@ -612,19 +612,19 @@
   {
     "title": "Adopt an Alien Anthropologist's View",
     "prompt": "Imagine you are an anthropologist from a completely alien culture, observing this human situation for the first time. You have no preconceived notions about 'normal' human behavior or societal structures.\n\n*   What rituals, customs, or unspoken rules would appear baffling or irrational?\n*   What core motivations or beliefs would you infer from the observed behaviors?\n*   What 'artifacts' (tools, documents, processes) would seem particularly strange or revealing?\n\nDescribe your 'field notes' as this alien anthropologist. What fundamental aspects of the situation become visible when stripped of cultural familiarity?",
-    "theme": "Anthropology",
+    "theme": "Psychology",
     "tag": ""
   },
   {
     "title": "Employ the Empty Chair Technique",
     "prompt": "Place an empty chair in the room (physically or imaginatively). This chair represents a key stakeholder, a dissenting voice, a future self, a core principle, or even an abstract concept (e.g., 'The User,' 'Ethics,' 'The Environment') not fully represented in current discussions.\n\nEngage in a dialogue with the 'entity' in the empty chair.\n*   What are their concerns, perspectives, or questions about the situation?\n*   What would they advocate for or warn against?\n*   Speak their part aloud, then respond from your own perspective.\n\nWhat new insights or empathic shifts occur when you give explicit voice to this 'other'?",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
     "title": "Analyze the Flow of Credits (and Debits)",
     "prompt": "Think of 'credits' not just as money, but as any form of value, recognition, energy, or trust within this situation. Conversely, 'debits' are drains, costs, or breaches of trust.\n\nMap the flow:\n*   Who or what generates 'credits'? Where do they accumulate?\n*   Who or what incurs 'debits'? Where are the major drains?\n*   Are there imbalances in this 'economy'? Are some consistently 'overdrawn' while others hoard 'capital'?\n*   How could you redirect flows to create a more equitable, energetic, or trustworthy system?\n\nConsider this an audit of the situation's intangible economy.",
-    "theme": "Economics",
+    "theme": "Politics",
     "tag": ""
   },
   {
@@ -805,25 +805,25 @@
   {
     "title": "Follow the Dovetail's Logic",
     "prompt": "The dovetail joint becomes stronger under stress—the more you pull, the tighter it holds. Its strength comes from working with, rather than against, the forces it faces.\n\nHow could the forces opposing you become sources of strength?\nWhere might resistance actually be essential to your structure?\nWhat connections grow stronger under pressure?\n\nConsider how you might design solutions that, like the dovetail, transform opposition into strength. What would change if you welcomed rather than resisted pressure?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Embrace the Tearout",
     "prompt": "Sometimes wood tears unpredictably, despite our best techniques. Master craftspeople know when to change direction and when to incorporate these unexpected patterns into their design.\n\nHow could unexpected disruptions become features rather than flaws?\nWhere might resistance be suggesting a different direction?\nWhat 'mistakes' could lead to new possibilities?\n\nConsider how embracing rather than fighting unexpected outcomes might lead to more interesting results. What tears in your plan might actually be doorways?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Build the Jig First",
     "prompt": "Sometimes the most important part isn't the final piece, but the system you build to create it. A well-designed jig makes complex tasks simple and repeatable.\n\nWhat supporting structures could make your difficult tasks routine?\nHow might investing in process now multiply your capabilities later?\nWhere are you repeatedly solving the same problem?\n\nWhat would change if you spent as much time designing your process as you do using it?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Let the Shavings Tell the Story",
     "prompt": "A curl of wood from a well-tuned plane tells everything: the sharpness of the blade, the grain direction, the moisture content. Every process leaves similar telltale signs.\n\nWhat subtle indicators are you overlooking?\nHow might the 'waste' from your process contain valuable information?\nWhat stories are your failures trying to tell you?\n\nWatch the small signs your work produces. What secrets might be revealed in the parts you usually sweep away?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
@@ -1099,13 +1099,13 @@
   },
   {
     "title": "Taste the Mise en Place",
-    "theme": "Experimental",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "Every great dish begins long before the flame is lit. Vegetables chopped, spices measured, sauces reduced, everything in its place — mise en place. The cooking itself is just assembly.\n\nWhat would your mise en place look like? What needs to be prepped, measured, and arranged before the heat goes on? What are you trying to cook and chop at the same time — and why does it keep burning?\n\nThe secret every chef knows: cooking is 90% preparation. The fire is the easy part."
   },
   {
     "title": "Read the Palate Cleanser",
-    "theme": "Experimental",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "Between courses, a sorbet. Between intense flavors, something neutral. The palate cleanser exists not as a dish in itself, but as a reset — a return to zero so the next taste arrives fresh.\n\nWhere does your situation need a palate cleanser? What intensity has been building so long that nothing new can be tasted? What small, neutral intervention could reset perception and make the next thing arrive with full impact?\n\nSometimes the most important course is the one with no flavor at all."
   },
@@ -1135,13 +1135,13 @@
   },
   {
     "title": "Check the Fermentation",
-    "theme": "Nature",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "You can't rush fermentation. You set the conditions — temperature, moisture, the right cultures — and then you wait while invisible organisms transform the raw material into something entirely new. Too much intervention kills the process. Too little attention and it spoils.\n\nWhat in your situation needs to ferment? What transformation requires patience, not force? What conditions can you set, then step back from? And how do you know the difference between healthy fermentation and rot?\n\nThe best things in life — bread, wine, cheese, kimchi — are all controlled decay."
   },
   {
     "title": "Read the Grain",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "Every piece of wood has a grain — a direction it wants to go, born from years of growth, weather, and stress. Cut with it and the blade glides. Cut against it and the wood fights you, tears, splinters.\n\nWhat is the grain of this situation? What direction does it naturally want to move? Where have you been cutting against it, mistaking the splintering for the material's fault rather than your approach?\n\nMaster craftspeople don't impose their will on the material. They read its grain and let it guide the cut."
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "title": "Follow the Thread Count",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "A 200-thread-count sheet and a 1000-thread-count sheet use the same material. The difference is density — how tightly the threads are packed per square inch. Higher count means finer weave, smoother hand, less visible structure. But also: less breathability, more rigidity, higher cost.\n\nWhat is the thread count of your approach? Are you weaving too loosely — gaps where things fall through, visible structure that should be invisible? Or too tightly — so dense that nothing can breathe, every thread accounted for but the fabric suffocates?\n\nWhat would the right thread count feel like? Not the finest possible — the most appropriate."
   },
