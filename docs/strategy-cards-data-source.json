@@ -1356,5 +1356,269 @@
     "tag": "",
     "context": "From Marvin Minsky's Society of Mind (1986). The Puzzle Principle: any problem can be solved by trial and error, provided only that we have a way to recognize when the problem is solved.",
     "prompt": "You don't need to know how to solve this. You only need to know what solved looks like.\n\nHere's the secret: the hard part was never generating ideas. You can generate all day. The hard part is the filter — knowing what 'yes' looks like clearly enough that you can say it with conviction the moment something fits.\n\nSo stop reasoning your way to the answer. Get ruthless about your criteria instead. What would you accept? What would make you say 'done'? Define the shape of the solution with painful precision — then generate wildly, recklessly, without judgment. The recognition is the intelligence. The generation can be dumb."
+  },
+  {
+    "title": "Season in Layers",
+    "prompt": "Every great stock is built in stages. The mirepoix goes in first — slow, patient, foundational. Aromatics later. Salt at the end. Each layer of flavor needs time to develop before the next one joins.\n\nWhere are you trying to add all the seasoning at once? What foundational flavor is missing because you skipped straight to the finishing salt? What needs to cook low and slow before anything else goes in?\n\nDepth doesn't come from more ingredients. It comes from patience with each one.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Know When It's Overworked",
+    "prompt": "Knead bread dough just enough and the gluten develops — elastic, supple, alive. Keep going past that point and it tears, turns tough, refuses to rise. The dough tells you when to stop, if you're paying attention.\n\nWhat in your situation has been handled past its ideal point? Where has productive refinement crossed into destructive overwork? What needs you to take your hands off and let it rest?\n\nSometimes the best thing you can do for something is stop touching it.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Deglaze the Pan",
+    "prompt": "After the searing heat, the fond — those caramelized bits stuck to the bottom of the pan. They look like burnt residue. They're actually concentrated flavor. A splash of wine, a wooden spoon, and everything dissolves into richness.\n\nWhat's stuck to the bottom of your process? What looks like residue or failure but is actually concentrated insight? What solvent — a new question, a different perspective, a conversation — could release it?\n\nThe best sauces are made from what everyone else scrapes into the trash.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Cut on the Action",
+    "prompt": "An editor cuts from one angle to another in the middle of a movement — a hand reaching for a door, a head turning. The brain fills in the gap seamlessly. Cut between movements and the audience feels the edit. Cut during one and they feel the story.\n\nWhere could you make your transitions invisible by timing them to moments of motion? What changes feel jarring because they happen in stillness? What action is already in progress that could carry a shift without anyone noticing?\n\nThe best edits are the ones nobody sees.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Hold the Wide Shot",
+    "prompt": "The instinct is always to cut closer. More detail. More focus. More zoom. But sometimes the wide shot — holding back, refusing to narrow — tells a story that close-ups can't. Context. Relationship. Scale. The thing in its world.\n\nWhere have you been cutting too close? What context have you cropped out in pursuit of detail? What would you see if you pulled back far enough to fit the whole scene in frame?\n\nSometimes the most revealing shot is the one that shows everything at once.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Watch the Background",
+    "prompt": "In great films, the background tells a different story than the foreground. While the actors speak, something unfolds behind them — a figure crossing a window, a change of light, a world continuing without permission.\n\nWhat's happening in the background of your foreground story? What secondary narrative is unfolding while everyone watches the main action? What would you notice if you deliberately unfocused from the protagonist?\n\nThe background never lies. It just waits to be noticed.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Find the Invariant",
+    "prompt": "Everything changes — but something doesn't. In mathematics, the invariant is the property that survives transformation. Rotate a sphere and its volume stays constant. Shuffle a deck and the number of cards remains. The invariant is what the chaos can't touch.\n\nWhat stays constant no matter how much everything else shifts? What property survives every transformation you've thrown at this situation? What is genuinely unchangeable here — not by choice, but by structure?\n\nFind the invariant. It's the one fixed point around which everything else is free to move.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Check the Boundary Conditions",
+    "prompt": "The equation works beautifully in the middle. It's at the edges — where x approaches zero, or infinity, or flips sign — that the real behavior reveals itself. Boundary conditions expose what the smooth interior conceals.\n\nWhat happens at the extremes of your situation? When resources hit zero? When scale approaches infinity? When a key assumption reverses? What breaks, what holds, and what behaves in ways the middle never predicted?\n\nThe edges are where the truth lives. The center is where the approximations work.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Spot the Off-by-One Error",
+    "prompt": "The most common bug in programming. The fence has 10 posts but only 9 gaps between them. You count to 10 but visit 11 positions. The error is always exactly one — small enough to miss, consequential enough to ruin everything.\n\nWhere is your off-by-one error? What are you counting wrong by the smallest possible margin? What boundary have you placed one step too early or one step too late? Where is the gap between what you think you're measuring and what you're actually measuring exactly one unit wide?\n\nThe deadliest errors aren't the dramatic ones. They're the ones hiding in a single digit.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Take the History Before the Scan",
+    "prompt": "Before imaging, before blood work, before any technology — the patient history. When did it start? What makes it worse? What makes it better? Has this happened before? The most expensive diagnostic tool in the hospital is a doctor who listens.\n\nWhat questions haven't you asked yet? What would the history of this situation reveal if someone sat down and actually took it — methodically, patiently, from the beginning? What expensive analysis are you reaching for when a simple conversation would tell you more?\n\nThe scan confirms. The history diagnoses.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Observe the Referred Pain",
+    "prompt": "The heart attack presents as jaw pain. The diaphragm irritation feels like shoulder ache. The body routes distress through unexpected channels — the pain shows up far from its source, misleading everyone who takes it at face value.\n\nWhere is the pain you're seeing actually referred from somewhere else? What distant source is expressing itself through a local symptom? What would shift if you stopped treating where it hurts and started looking for where it originates?\n\nFollow the nerve, not the complaint.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Respect the Therapeutic Window",
+    "prompt": "Too little medicine does nothing. Too much is toxic. The therapeutic window — that narrow band where the dose is both effective and safe — is everything. And it's different for every patient.\n\nWhat is the therapeutic window for your intervention? Where is the dose too low to produce effect? Where does it cross into toxicity? How narrow is that band, and are you even inside it?\n\nMore is not better. Less is not safer. Right is right, and the margin may be thinner than you think.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Train the Antagonist Muscle",
+    "prompt": "Every powerful movement depends on the opposing muscle group. The punch's power comes from the back, not the arm. The kick's stability comes from the standing leg, not the kicking one. Neglect the antagonist and the whole system breaks down.\n\nWhat opposing force or capability have you been neglecting? What invisible counterpart makes your primary strength possible? Where would training the opposite of what seems important actually improve the thing you care about?\n\nStrength isn't just about the muscle you're using. It's about the one holding everything else in place.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Call the Play at the Line",
+    "prompt": "The coach sends in the play. But the quarterback reads the defense, sees something the sideline can't, and audibles — changes the call at the last second based on what's actually in front of them.\n\nWhat plan are you running that no longer matches the defense you're facing? What can you see from the field that the original strategy couldn't anticipate? When is it time to trust what's in front of you over what was decided from a distance?\n\nThe best plays are the ones that adapt to reality. Call the audible.",
+    "theme": "Games",
+    "tag": ""
+  },
+  {
+    "title": "Find the Selvedge",
+    "prompt": "The selvedge is the self-finished edge of woven fabric — where the weft thread turns back on itself, creating a boundary that won't unravel. No hemming required. The structure completes itself.\n\nWhere does your work naturally finish itself? What edges need no external binding because the process itself creates a clean boundary? And where are you hemming frantically at edges that keep fraying because there's no selvedge — no self-completing structure?\n\nDesign the selvedge into the process. Let the edge finish itself.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Read the Warp and Weft",
+    "prompt": "The warp runs vertically, held taut on the loom — the structural backbone, set before any weaving begins. The weft crosses horizontally, carrying the pattern, the color, the visible design. You see the weft. You depend on the warp.\n\nWhat is the warp of your situation — the tension-bearing structure nobody sees? What is the weft — the visible pattern everyone notices? What happens if the warp breaks? And what would change if you redesigned the invisible foundation while keeping the visible pattern identical?\n\nThe cloth shows you the weft. The loom knows the warp.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Triangulate Your Position",
+    "prompt": "One bearing gives you a line. Two bearings give you a point. Three bearings give you confidence. Without triangulation, you know your direction but not your location.\n\nHow many independent reference points are you using to fix your position? Are you navigating by a single bearing — one data source, one perspective, one metric? What second and third bearings would confirm or correct where you actually are?\n\nOne signal is a guess. Three signals are a position.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Correct for Magnetic Declination",
+    "prompt": "The compass points to magnetic north. But magnetic north isn't true north — and the difference varies depending on where you stand. Navigators who forget the declination end up miles from their destination, perfectly convinced they're on course.\n\nWhat is the declination in your compass? What systematic bias sits between what your instruments tell you and where you actually need to go? Are you correcting for it, or are you confidently heading in a direction that's off by a few critical degrees?\n\nTrust the compass, but know its error.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Read the Spatter Pattern",
+    "prompt": "Blood spatter analysis tells you angle of impact, velocity, distance, sequence. The drops don't lie — their shape, size, and distribution reconstruct events that nobody witnessed. The evidence writes its own narrative.\n\nWhat spatter pattern has your situation left behind? What distribution of effects — complaints, errors, successes, anomalies — tells a story about an impact you didn't see? Can you read the pattern backward to reconstruct the event that created it?\n\nDon't ask what happened. Read what was left behind.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Establish the Chain of Custody",
+    "prompt": "Evidence means nothing if you can't prove it hasn't been tampered with. Every hand it passes through, every moment it's unaccounted for, weakens its authority. The chain of custody isn't about the evidence — it's about trust.\n\nWhat is the chain of custody for your information? How many hands has it passed through? At what point could it have been altered, reinterpreted, or selectively filtered? Where are the gaps in the chain where trust breaks down?\n\nIt's not enough to have the evidence. You need to prove nobody touched it on the way to you.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Wait for the Transit",
+    "prompt": "When a planet crosses in front of its star, the light dips — barely perceptibly, but measurably. That's how we find worlds we can't see directly: by the shadow they cast on something brighter. But you have to be watching at the right time, in the right direction, with enough patience.\n\nWhat are you trying to observe directly that can only be detected by its effect on something else? What shadow, what dip, what subtle dimming would reveal the thing you can't see? And are you watching patiently enough to catch the transit when it happens?\n\nSome things can only be found by the absence they create.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Account for the Observer Effect",
+    "prompt": "The act of measuring a quantum system changes it. The thermometer inserted into the liquid alters its temperature. The survey changes the opinion. You cannot observe without participating.\n\nHow is your observation changing what you're observing? What would this situation look like if you weren't watching it? Where has the act of measurement itself produced the result you're measuring?\n\nYou are never outside the experiment. Factor yourself into the equation.",
+    "theme": "Science",
+    "tag": ""
+  },
+  {
+    "title": "Think in Reverse",
+    "prompt": "The printmaker carves the mirror image. What's cut away will be white. What remains will print. Every mark is its own negative — you must think backward to see forward, remove to add, reverse to arrive.\n\nWhat would this look like in reverse? What needs to be subtracted to create the positive image? Where are you adding when you should be carving away? What would emerge if you built the negative space and let the positive reveal itself?\n\nSometimes the only way to see what you want is to cut away everything that isn't it.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Layer the Impression",
+    "prompt": "A four-color print requires four separate passes through the press — cyan, then magenta, then yellow, then black. Each layer alone looks wrong. Only when all four combine does the full image appear. And registration must be perfect — a hair's width off and the whole thing blurs.\n\nWhat separate layers need to align perfectly to produce the result you want? What looks wrong in isolation but is actually one essential pass of many? Where is your registration off — layers slightly misaligned, creating blur instead of sharpness?\n\nThe image only exists in the combination. No single layer tells the truth.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Find the Heat Color",
+    "prompt": "A blacksmith doesn't use a thermometer. She reads the color of the steel — cherry red for bending, bright yellow for welding, white for forging. Too cold and the metal cracks. Too hot and the grain structure is ruined forever. The color tells her everything.\n\nWhat color is your material right now? Is it workable — hot enough to shape, cool enough to hold? Where are you hammering on cold metal, wondering why it cracks? Where have you overheated something past the point of structural integrity?\n\nLearn to read the heat. The material will tell you when it's ready.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Quench at the Right Moment",
+    "prompt": "Hardening steel requires heating it past critical temperature, then plunging it into oil or water. Too soon and it stays soft. Too late and internal stresses shatter it. The quench — the moment of rapid, decisive change — must come at exactly the right time.\n\nWhen is the quench moment for your situation? What has been heated to the point where rapid, decisive action would lock in the transformation? Where are you letting something cool slowly when a sudden shock would create the hardness you need?\n\nSome things only become strong through shock. But timing is everything.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Find the Callback",
+    "prompt": "The callback brings back an earlier joke in a new context — and the recognition itself produces the laugh. It rewards attention, creates pattern, and proves that everything was connected all along. The audience delights in seeing the thread they didn't know they were holding.\n\nWhat forgotten element from earlier in this process could return now, transformed by context, to create an unexpected connection? What would your audience (users, stakeholders, collaborators) recognize and delight in if you brought it back?\n\nThe callback proves you were paying attention. And it proves the story was always whole.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Land the Dismount",
+    "prompt": "In gymnastics, the hardest move is often the last one. The routine can be flawless, but a stumbled landing undermines everything that came before. The dismount is disproportionately important — it's the last thing the judges (and the audience) remember.\n\nHow does this thing end? What's the last impression, the final moment, the landing? Are you putting as much craft into the dismount as you put into the routine? What would a stuck landing look like?\n\nNobody remembers the middle. They remember how it ended.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Read the Indicator Species",
+    "prompt": "Canaries in coal mines. Lichens that vanish when air quality drops. Frogs that disappear before the ecosystem visibly degrades. Indicator species are the early warning system — they respond to changes the rest of the system hasn't felt yet.\n\nWhat are the indicator species in your situation? What sensitive element would respond first to degradation? What's already showing stress that the rest of the system hasn't registered? What canary should you be watching?\n\nBy the time the obvious signs appear, the indicator species has been gone for months.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Study the Ecotone",
+    "prompt": "The ecotone is the transition zone between two ecosystems — where forest meets grassland, where river meets sea. It's the edge, and it's where biodiversity explodes. Species from both systems meet here, and entirely new ones emerge that exist nowhere else.\n\nWhere are the ecotones in your situation — the borders between different domains, teams, disciplines, or approaches? What thrives specifically at these boundaries that can't survive in either pure environment? What unique species of idea or capability could you cultivate at the edges?\n\nThe richest territory is always the borderland.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Center the Clay",
+    "prompt": "Before you can shape anything on the wheel, the clay must be centered — perfectly balanced on the axis of rotation. Off-center clay wobbles, fights your hands, produces crooked walls. The centering takes longer than the shaping, and nobody sees it in the finished piece.\n\nWhat needs to be centered before you can begin shaping? What wobble in your foundation is making everything downstream fight you? What patient, invisible work would make everything that follows easier?\n\nThe pot doesn't know it was centered. But it knows when it wasn't.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Trust the Kiln",
+    "prompt": "You've shaped the piece. You've glazed it with care. Now you put it in the kiln, close the door, and surrender control. The fire will do things you can't predict — colors shift, glazes run, surfaces crackle. Some pieces shatter. Others emerge transformed in ways you never planned.\n\nWhat needs to go through the fire? What has been shaped and prepared but now needs a transformation you can't control? Where do you need to close the door and let the heat do its work?\n\nThe kiln doesn't take orders. But it finishes what your hands started.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Find the Counterbalance",
+    "prompt": "In partnered dance, the most dynamic positions come from counterbalance — two bodies leaning away from each other, held together by shared weight. Remove one partner and the other falls. The tension between them creates shapes neither could achieve alone.\n\nWhat are you trying to hold alone that requires a counterbalance? What opposite force would let you lean further than you can stand on your own? What shape becomes possible only when two opposing tensions agree to trust each other?\n\nYou can't lean this far without someone leaning the other way.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Dance the Phrase, Not the Step",
+    "prompt": "Beginners learn steps. They count: one-two-three, one-two-three. But the dance lives in the phrase — the arc that stretches across eight bars, rising and falling, breathing as a single continuous thought. Steps are syllables. The phrase is the sentence.\n\nAre you thinking in steps or phrases? Are you optimizing individual moments or shaping a continuous arc? What would change if you stopped counting beats and started breathing through the whole movement?\n\nThe audience never sees the steps. They feel the phrase.",
+    "theme": "Art",
+    "tag": ""
+  },
+  {
+    "title": "Translate the Untranslatable",
+    "prompt": "Every language has words with no equivalent elsewhere. Saudade. Hygge. Wabi-sabi. Tsundoku. These aren't gaps in vocabulary — they're entire experiences that one culture perceives and another doesn't have the lens to see.\n\nWhat untranslatable concept lives in your situation — something everyone involved feels but nobody has a word for? What would change if you named it? What new perception becomes available when the unnamed gets a name?\n\nThe word doesn't create the feeling. But without the word, the feeling has nowhere to land.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Listen for the Register Shift",
+    "prompt": "People switch linguistic registers constantly — formal to casual, technical to emotional, public to private. The shift itself carries meaning. When a colleague drops from boardroom language into kitchen-table talk, that's a signal. When technical jargon suddenly appears in casual conversation, that's a signal too.\n\nWhat register shifts are happening around this situation? Where does the language change — and what does the change reveal about what people actually feel, believe, or fear? Where is formality hiding discomfort? Where is casualness masking seriousness?\n\nThe words matter less than how they're dressed.",
+    "theme": "Psychology",
+    "tag": ""
+  },
+  {
+    "title": "Measure Twice",
+    "prompt": "The oldest rule in the shop. Not because carpenters are forgetful, but because the cost of a wrong cut is absolute — the wood doesn't grow back. The second measurement isn't redundant. It's insurance against the confidence of the first.\n\nWhat are you about to cut that can't be uncut? Where is the cost of being wrong irreversible? What second measurement — from a different angle, using a different reference — would either confirm your confidence or save you from a mistake you couldn't fix?\n\nMeasuring twice isn't doubt. It's respect for the material.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Let the Joint Do the Work",
+    "prompt": "A well-made mortise and tenon needs no glue, no screws, no fasteners. The geometry itself creates the strength. The joint holds because the shapes interlock — because the design anticipated the forces and routed them through the structure.\n\nWhere are you fastening things together that should be joined? What external reinforcement are you adding because the underlying connection wasn't designed to carry the load? What would it take to make the joint itself — the way things meet — strong enough to need nothing else?\n\nThe best joints are invisible. The strength lives in the fit.",
+    "theme": "Cooking & Making",
+    "tag": ""
+  },
+  {
+    "title": "Read the Fault Line",
+    "prompt": "The landscape looks stable. But beneath the surface, tectonic plates grind against each other along fault lines — building pressure, storing energy, waiting. When the fault slips, everything above it rearranges in seconds.\n\nWhere are the fault lines in your situation? What opposing pressures are building slowly beneath a stable surface? Where might the sudden release of accumulated tension rearrange everything you've built?\n\nThe earthquake isn't the problem. The problem was all the years of pressure nobody addressed.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Study the Erosion Pattern",
+    "prompt": "Water doesn't carve the Grand Canyon in a day. It takes millions of years of steady, patient flow — each molecule removing one grain of sand. The canyon is the autobiography of the river, written in geological time.\n\nWhat slow, steady forces are carving away at your situation? What patient erosion is reshaping the landscape while everyone focuses on sudden events? What would the autobiography of this process look like if you could read it in the stone?\n\nThe most powerful forces aren't the dramatic ones. They're the ones that never stop.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Graft the Rootstock",
+    "prompt": "The fruit you eat often grows on roots that aren't its own. Apple trees are grafted onto hardy rootstock — the visible tree contributes flavor, the invisible roots contribute resilience. Neither could succeed alone.\n\nWhat strong rootstock could you graft your idea onto? What existing infrastructure, community, or system could provide the invisible support your innovation needs? And what qualities does your innovation bring that the rootstock lacks?\n\nThe sweetest fruit grows on the toughest roots. Neither is the whole tree.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Prune for Shape, Not Just Size",
+    "prompt": "Inexperienced gardeners prune to make things smaller. Master gardeners prune to create shape — opening the canopy to light, directing growth outward or upward, removing what crosses or crowds. Every cut is a decision about future form.\n\nWhat are you pruning to reduce rather than to shape? What cuts would direct growth toward the form you actually want? Where is something crossing or crowding that needs to be removed not because it's bad, but because it's blocking something better?\n\nPruning isn't subtraction. It's sculpture.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Design the Threshold Ritual",
+    "prompt": "Every great building has a moment of arrival — the compression of a low entrance before the release of a soaring nave, the turn that reveals the view, the material change underfoot that says you've crossed from one world into another.\n\nWhat is the threshold ritual for your situation? How does someone know they've arrived? What compression and release could you design to mark the transition from before to after? What changes — in material, in light, in scale — would signal that something important has begun?\n\nThe door is not just an opening. It's a ceremony.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Listen to the Building's Complaints",
+    "prompt": "Every building speaks. The crack in the plaster is a sentence about differential settlement. The mold in the corner is a paragraph about moisture migration. The door that sticks is a thesis about structural movement. You just have to learn the language.\n\nWhat is your system complaining about? What small symptoms — the sticking doors, the hairline cracks, the persistent dampness — are telling you something about forces you haven't addressed? What language is the structure speaking that you haven't learned to read?\n\nBuildings don't lie. They just speak quietly.",
+    "theme": "Architecture",
+    "tag": ""
   }
 ]

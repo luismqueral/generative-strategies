@@ -9,21 +9,18 @@ import { X, Search, ChevronDown } from "lucide-react";
 
 const themeColors: Record<string, string> = {
   Featured: '#f9f9f9',
-  Psychology: '#fffaed',
-  Science: '#f0f8ff',
   Philosophy: '#f8f0ff',
+  Science: '#f0f8ff',
   History: '#fff0f5',
   Art: '#f0fff0',
   Nature: '#f0ffff',
-  Experimental: '#fff5e6',
+  Psychology: '#fffaed',
+  Architecture: '#fff8ee',
+  'Cooking & Making': '#fff5e6',
+  Experimental: '#f5f5ff',
+  Games: '#fdf5f0',
   Politics: '#fff0f0',
   Religion: '#f8f8f8',
-  Architecture: '#fff8ee',
-  Chaotic: '#fff0e6',
-  Anthropology: '#fdf5f0',
-  Economics: '#f5f5ff',
-  Mythology: '#fff8f0',
-  Other: '#fafafa',
 };
 
 export default function Home() {
@@ -34,7 +31,7 @@ export default function Home() {
   const categoryCounts = useMemo(() => {
     const counts: Record<string, number> = {};
     for (const card of strategyCards) {
-      const t = card.theme || "Other";
+      const t = card.theme || "Experimental";
       counts[t] = (counts[t] || 0) + 1;
     }
     return counts;
@@ -92,7 +89,7 @@ export default function Home() {
 
     if (activeCategory === "Featured") return featuredCards;
     if (activeCategory === "All") return strategyCards;
-    return strategyCards.filter(c => (c.theme || "Other") === activeCategory);
+    return strategyCards.filter(c => (c.theme || "Experimental") === activeCategory);
   }, [strategyCards, searchQuery, activeCategory, featuredCards]);
 
   const pageBg = themeColors[activeCategory] || '#f9f9f9';

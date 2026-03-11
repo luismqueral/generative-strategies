@@ -14,7 +14,7 @@
   {
     "title": "Follow the Resistance",
     "prompt": "A hand plane chatters when the grain changes direction. A drill bit binds when it hits a different material. Resistance is information.\n\nWhere does your work chatter, bind, or slow down? Don't fight through it — read it. What is the resistance telling you about what lies beneath the surface? What change in material or direction has it just revealed?\n\nThe smoothest path teaches you nothing. Every point of friction is a message from the structure itself.",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -62,7 +62,7 @@
   {
     "title": "Embrace the Paradox",
     "prompt": "Identify the seemingly irreconcilable paradoxes in this situation.\nInstead of resolving these tensions, intensify them. Let them become generative forces.\n\nDetail how these amplified paradoxes might create new possibilities beyond simple 'either/or' thinking. What new paths open up?",
-    "theme": "Chaotic",
+    "theme": "Experimental",
     "tag": ""
   },
   {
@@ -92,7 +92,7 @@
   {
     "title": "Apply Strange Attractor Dynamics",
     "prompt": "View this as a chaotic system governed by strange attractors—patterns neither stable nor random, but with constrained unpredictability.\n\nWhat underlying patterns might generate apparent disorder? \n\nDescribe how chaos theory could reveal complex order within seemingly unpredictable situations. Find the pattern in the chaos.",
-    "theme": "Chaotic",
+    "theme": "Experimental",
     "tag": ""
   },
   {
@@ -142,7 +142,7 @@
     "prompt": "Every culture has a grammar it can't see. Not the rules people articulate — the deeper ones they follow without knowing. The oppositions that organize everything: clean versus dirty, inside versus outside, us versus them. These invisible categories sort the world before conscious thought even begins.\n\nWhat binary oppositions are secretly organizing this situation? What unstated categories determine what belongs and what doesn't? What's the hidden 'raw versus cooked' — the fundamental distinction that everyone obeys but nobody has named?\n\nThe surface is messy and particular. But underneath, a surprisingly simple grammar is writing all the sentences. Find the grammar and you understand why everything is arranged the way it is.",
     "theme": "History",
     "tag": "",
-    "context": "[Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_Lévi-Strauss) noticed that wildly different cultures keep organizing themselves around the same basic patterns. Look past the surface variety — there's usually a [hidden structure](https://en.wikipedia.org/wiki/Structural_anthropology) underneath."
+    "context": "Inspired by Claude Lévi-Strauss's structural anthropology — the discovery that beneath the infinite variety of cultural expressions, a small set of binary oppositions and unconscious structures organize human thought."
   },
   {
     "title": "Pursue the Question",
@@ -201,7 +201,7 @@
   {
     "title": "Embrace the Monster",
     "prompt": "What aspects appear threatening, disturbing, or monstrous?\nMove *toward* these elements, not away.\n\nDetail how befriending the monster might transform both your approach and the nature of what initially seemed frightening. What happens when you face the beast?",
-    "theme": "Mythology",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -255,13 +255,13 @@
   {
     "title": "Read the Payoff Matrix",
     "prompt": "Every situation has a hidden scoreboard. The players may not know the rules, but they're playing anyway — choosing cooperation or defection, risk or safety, short-term gain or long-term trust.\n\nMap the invisible incentives. What rewards does the current structure actually offer — not what it claims to reward? Where are rational actors producing irrational outcomes because the payoffs are misaligned?\n\nSometimes the game itself is the problem. Can you change the rules instead of playing better?",
-    "theme": "Science",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Invoke the Trickster",
     "prompt": "How might playful disruption, creative mischief, or strategic disorder transform this situation?\nInvite the trickster spirit to overturn assumptions and patterns.\n\nDescribe how this subversive energy might reveal truths that seriousness could never uncover. Time for some clever chaos.",
-    "theme": "Chaotic",
+    "theme": "Experimental",
     "tag": ""
   },
   {
@@ -305,7 +305,7 @@
     "prompt": "The moment you see a chair, you don't see wood, fabric, angles, weight. You see 'chair.' The label arrives before the experience. Every perception is immediately kidnapped by interpretation, assumption, memory.\n\nWhat would this situation look like if you could see it before the labels landed? Before you knew what it was 'supposed to be'? Strip away everything you think you know — not to be ignorant, but to meet the raw thing itself.\n\nWhat's actually here, beneath all the names you've given it?",
     "theme": "Philosophy",
     "tag": "",
-    "context": "Philosopher [Edmund Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl) argued that the moment you label something, you stop really seeing it. This strategy asks you to drop your assumptions and look at the [raw experience first](https://en.wikipedia.org/wiki/Phenomenological_reduction)."
+    "context": "Inspired by Edmund Husserl's phenomenological reduction — the practice of 'bracketing' all assumptions about a thing to examine the structure of direct experience itself."
   },
   {
     "title": "Follow the Exaptation Path",
@@ -322,7 +322,7 @@
   {
     "title": "Unmask the Performance",
     "prompt": "Everything here is rehearsed. The categories you treat as natural — the boundaries between roles, the distinctions between types, the labels on everything — exist only because someone keeps performing them. Stylized repetition, day after day, until the costume becomes confused with the skin.\n\nStop performing for a moment. What categories dissolve when nobody rehearses them? What boundaries exist only because everyone agrees to see them? What would happen if someone simply forgot their lines?\n\nThe most radical act might be to stop pretending these divisions were ever real.",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -336,7 +336,7 @@
     "prompt": "Somewhere along the way, the representation replaced the thing. The brand became more real than the product. The metric became more important than what it measured. The map was updated so many times that nobody remembers the territory it was supposed to represent — and nobody checks anymore.\n\nYou're operating in a world of copies. Some of them have originals hiding underneath. Some of them never did — they were born as representations, pure performance, images of images.\n\nWhat in this situation is a copy that everyone treats as the original? What metric, model, or story has become more 'real' than the messy reality it was supposed to describe? And what happens when you go looking for the original and discover it's gone?",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Jean Baudrillard](https://en.wikipedia.org/wiki/Jean_Baudrillard) pointed out that sometimes the imitation becomes more real than the thing it copied — like how a brand's image can matter more than the actual product. He called this [hyperreality](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)."
+    "context": "Draws on Jean Baudrillard's theory of simulacra and hyperreality — where signs and simulations replace their referents and become more influential than any underlying 'real.'"
   },
   {
     "title": "Adopt Emergent Complexity",
@@ -413,49 +413,49 @@
   {
     "title": "Channel the Color Pie",
     "prompt": "Consider your challenge through the lens of Magic: The Gathering's five colors. How would each approach this?\n\n*   **White (Order, Protection, Community):** What structures or safeguards are needed? How can we unite efforts for the common good?\n*   **Blue (Knowledge, Manipulation, Intellect):** What information is key? Can we outthink the problem with a clever trick, new insight, or superior information?\n*   **Black (Ambition, Sacrifice, Self-interest):** What must be sacrificed for power or the ultimate goal? What is the most direct, albeit potentially costly, path to victory?\n*   **Red (Freedom, Impulse, Chaos):** Can we break through with sudden, decisive action? What if we embraced unpredictability and passion?\n*   **Green (Growth, Nature, Interdependence):** How can this develop organically? What are the natural strengths, instincts, and connections to leverage for robust growth?\n\nDetail a plan for each, then choose or synthesize the most potent combination to cast your solution.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Scry the Top Three",
     "prompt": "Like a well-timed Scry in Magic, look ahead: what are the next three most likely outcomes, obstacles, or decision points?\n\nFor each:\n1.  Detail one action you could take *now* to improve your position or alter its trajectory.\n2.  Decide: would you keep this 'card' on top of your library, or send it to the bottom?\n\nHow does this foresight change your immediate next step? Plan your draws.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Resolve a Saga",
     "prompt": "Envision this project as a three-chapter Magic Saga enchantment:\n\n*   **Chapter I (Lore):** What foundational lore or setup initiates the Saga? What's the opening scene?\n*   **Chapter II (Transformation):** What is the transformative action or turning point? What dramatic event unfolds?\n*   **Chapter III (Resolution):** What is the lasting impact or new reality once the Saga concludes? What is the final, powerful effect?\n\nDetail how each chapter builds upon the last to achieve a legendary outcome.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Activate the Artifact",
     "prompt": "Identify a core assumption, process, or overlooked asset that functions like a powerful Magic artifact with a hidden, game-changing activated ability.\n\nWhat 'mana cost' (resources, effort, risk, unconventional thinking) is required to activate it?\nWhat potent effect, perhaps one not originally intended for this 'artifact,' could it produce if tapped?\n\nDescribe how activating this latent power might bypass a standard limitation or create an unexpected advantage. Tap into hidden power.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Mulligan to Perfection",
     "prompt": "If your current strategy or initial resources were your opening hand in a high-stakes game, would you keep it or take a mulligan?\n\nDetail what a 'perfect hand' (ideal starting conditions, resources, insights) for this challenge would look like.\nWhat elements of your current 'hand' would you discard? What are you hoping to 'draw' by re-evaluating, even if it means starting with fewer resources (a metaphorical card down)?\n\nIs it time to reshuffle and redraw?",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Exploit the Mana Curve",
     "prompt": "Map your project's timeline and milestones against a Magic 'mana curve':\n\n*   **'One-drop' quick wins:** Early, low-cost actions for immediate impact.\n*   **'Mid-game' plays:** Significant developments requiring moderate resources.\n*   **'Late-game bomb':** The ultimate goal or high-impact deliverable.\n\nIs your resource allocation and timing optimized like a well-constructed deck, or do you need to rebalance your curve for better tempo and impact? Smooth out your plays.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Design Your Sideboard",
     "prompt": "Consider the primary challenges or 'opponent archetypes' this project might face (e.g., resource scarcity, shifting requirements, technical hurdles, stakeholder skepticism).\n\nDevelop a 'sideboard' of 3-5 alternative tactics, tools, or approaches you could swap in if your main strategy proves ineffective.\n\nHow does preparing these contingencies increase your project's resilience and adaptability? Always have a plan B (and C, and D).",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Flip the Morph",
     "prompt": "What aspect of this situation is like a 'Morph' creature—an unknown quantity, hidden potential, or unrevealed truth currently face down?\n\nWhat would it 'cost' (effort, investigation, risk) to 'flip it face up'?\nWhat unexpected ability, advantage, or critical information might be revealed?\n\nHow could that surprise turn the tide or fundamentally alter your understanding of the 'board state'? Uncover the mystery.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
@@ -473,7 +473,7 @@
   {
     "title": "Enact the Ritual of Release",
     "prompt": "What outdated assumptions, emotional baggage, or sunk costs are you still carrying regarding this project or situation?\n\nDesign a symbolic ritual to consciously release these burdens.\nThis could be anything from writing them down and burning the paper, to a mental visualization, to a team-based symbolic act.\n\nDescribe the ritual. More importantly, what shifts in perspective or available energy do you anticipate *after* this intentional act of letting go?",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -491,7 +491,7 @@
   {
     "title": "Deconstruct the Archetype",
     "prompt": "What dominant archetypes (e.g., the Hero, the Mentor, the Trickster, the Innocent) are consciously or unconsciously shaping perceptions or actions within this situation?\n\nIdentify one or two key archetypes at play.\n\nThen, deconstruct them:\n*   What are their underlying assumptions and expectations?\n*   What limitations or blind spots do they impose?\n*   What happens if you invert the archetype, or blend it with an unexpected counterpart?\n\nExplore how stepping outside these archetypal roles might open up new behaviors or solutions.",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
@@ -563,7 +563,7 @@
   {
     "title": "Invoke the Unreliable Narrator",
     "prompt": "Every story is told from a perspective, and narrators can be unreliable, biased, or have incomplete information. Consider the dominant narrative or explanation for this situation.\n\nNow, imagine it's being told by an 'unreliable narrator.'\n\n*   What might they be misinterpreting, omitting, or deliberately distorting?\n*   What alternative narratives become possible if the primary one is flawed?\n*   How does questioning the narrator's reliability open up new interpretations or avenues for investigation?\n\nRewrite a key part of the story from a deliberately unreliable (but plausible) viewpoint.",
-    "theme": "Philosophy",
+    "theme": "Art",
     "tag": ""
   },
   {
@@ -571,7 +571,7 @@
     "prompt": "Right now you're treating this as a problem. What if it's actually a story? A game? A living organism? An argument? A landscape?\n\nEach frame changes everything. A 'problem' wants a solution. A 'story' wants a protagonist and a turning point. A 'game' wants strategy and players. A 'landscape' wants exploration. The thing hasn't changed — but what it asks of you shifts completely depending on what you decide it is.\n\nRapidly cycle through at least three fundamentally different frames. Don't settle on one. Watch how the available moves transform with each shift.\n\nThe most powerful reframe isn't finding the 'right' way to see it. It's discovering that the way you see it was always a choice.",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Ontology](https://en.wikipedia.org/wiki/Ontology) is just a fancy word for asking \"what IS this thing, really?\" Changing how you categorize something can completely change what you're able to do with it."
+    "context": "Draws on ontological thinking — the philosophical practice of questioning what something fundamentally 'is,' and discovering that how we categorize reality shapes what we can do within it."
   },
   {
     "title": "Map the Adjacent Possible",
@@ -612,19 +612,19 @@
   {
     "title": "Adopt an Alien Anthropologist's View",
     "prompt": "Imagine you are an anthropologist from a completely alien culture, observing this human situation for the first time. You have no preconceived notions about 'normal' human behavior or societal structures.\n\n*   What rituals, customs, or unspoken rules would appear baffling or irrational?\n*   What core motivations or beliefs would you infer from the observed behaviors?\n*   What 'artifacts' (tools, documents, processes) would seem particularly strange or revealing?\n\nDescribe your 'field notes' as this alien anthropologist. What fundamental aspects of the situation become visible when stripped of cultural familiarity?",
-    "theme": "Anthropology",
+    "theme": "Psychology",
     "tag": ""
   },
   {
     "title": "Employ the Empty Chair Technique",
     "prompt": "Place an empty chair in the room (physically or imaginatively). This chair represents a key stakeholder, a dissenting voice, a future self, a core principle, or even an abstract concept (e.g., 'The User,' 'Ethics,' 'The Environment') not fully represented in current discussions.\n\nEngage in a dialogue with the 'entity' in the empty chair.\n*   What are their concerns, perspectives, or questions about the situation?\n*   What would they advocate for or warn against?\n*   Speak their part aloud, then respond from your own perspective.\n\nWhat new insights or empathic shifts occur when you give explicit voice to this 'other'?",
-    "theme": "Philosophy",
+    "theme": "Psychology",
     "tag": ""
   },
   {
     "title": "Analyze the Flow of Credits (and Debits)",
     "prompt": "Think of 'credits' not just as money, but as any form of value, recognition, energy, or trust within this situation. Conversely, 'debits' are drains, costs, or breaches of trust.\n\nMap the flow:\n*   Who or what generates 'credits'? Where do they accumulate?\n*   Who or what incurs 'debits'? Where are the major drains?\n*   Are there imbalances in this 'economy'? Are some consistently 'overdrawn' while others hoard 'capital'?\n*   How could you redirect flows to create a more equitable, energetic, or trustworthy system?\n\nConsider this an audit of the situation's intangible economy.",
-    "theme": "Economics",
+    "theme": "Politics",
     "tag": ""
   },
   {
@@ -776,7 +776,7 @@
     "prompt": "Nobody voted on it. Nobody announced it. But somehow everyone agrees — on what's 'realistic,' what's 'just how things work,' what 'everybody knows.' This consensus feels like gravity. It feels like common sense. That's what makes it so powerful.\n\nThe most effective form of control isn't force. It's getting people to police themselves — to genuinely believe that the current arrangement is natural, inevitable, and for the best. The rules you enforce on yourself are the hardest to see and the hardest to break.\n\nWhat in this situation does everyone treat as obvious that is actually a choice? What 'common sense' would look bizarre to someone outside the system? What would it take to make the invisible consensus visible — and therefore debatable?",
     "theme": "Politics",
     "tag": "",
-    "context": "[Antonio Gramsci](https://en.wikipedia.org/wiki/Antonio_Gramsci) showed that power often works not through force, but by making one group's worldview feel like \"just common sense\" to everyone else. He called this [cultural hegemony](https://en.wikipedia.org/wiki/Cultural_hegemony)."
+    "context": "Draws on Antonio Gramsci's concept of cultural hegemony — how dominant groups maintain power not through force but through cultural leadership, making their worldview feel like common sense."
   },
   {
     "title": "Invoke the Overton Window",
@@ -805,25 +805,25 @@
   {
     "title": "Follow the Dovetail's Logic",
     "prompt": "The dovetail joint becomes stronger under stress—the more you pull, the tighter it holds. Its strength comes from working with, rather than against, the forces it faces.\n\nHow could the forces opposing you become sources of strength?\nWhere might resistance actually be essential to your structure?\nWhat connections grow stronger under pressure?\n\nConsider how you might design solutions that, like the dovetail, transform opposition into strength. What would change if you welcomed rather than resisted pressure?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Embrace the Tearout",
     "prompt": "Sometimes wood tears unpredictably, despite our best techniques. Master craftspeople know when to change direction and when to incorporate these unexpected patterns into their design.\n\nHow could unexpected disruptions become features rather than flaws?\nWhere might resistance be suggesting a different direction?\nWhat 'mistakes' could lead to new possibilities?\n\nConsider how embracing rather than fighting unexpected outcomes might lead to more interesting results. What tears in your plan might actually be doorways?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Build the Jig First",
     "prompt": "Sometimes the most important part isn't the final piece, but the system you build to create it. A well-designed jig makes complex tasks simple and repeatable.\n\nWhat supporting structures could make your difficult tasks routine?\nHow might investing in process now multiply your capabilities later?\nWhere are you repeatedly solving the same problem?\n\nWhat would change if you spent as much time designing your process as you do using it?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Let the Shavings Tell the Story",
     "prompt": "A curl of wood from a well-tuned plane tells everything: the sharpness of the blade, the grain direction, the moisture content. Every process leaves similar telltale signs.\n\nWhat subtle indicators are you overlooking?\nHow might the 'waste' from your process contain valuable information?\nWhat stories are your failures trying to tell you?\n\nWatch the small signs your work produces. What secrets might be revealed in the parts you usually sweep away?",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
@@ -969,49 +969,49 @@
     "prompt": "Look at the same thing from two angles. Not two perspectives on two different problems — two views of the exact same thing. From here, it looks like a communication failure. From there, it looks like a power struggle. Neither view is wrong. But the gap between them isn't a flaw in your perception. It IS the thing.\n\nMost problems aren't hiding a secret solution that reconciles all perspectives. The irreducible disagreement between honest viewpoints — the place where they refuse to snap together — is where the real insight lives.\n\nStop trying to synthesize. What truth lives only in the gap?",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Slavoj Žižek's](https://en.wikipedia.org/wiki/Slavoj_Žižek) \"[parallax view](https://en.wikipedia.org/wiki/The_Parallax_View_(Žižek_book))\" — when two people see the same thing differently, the gap between their views often reveals something real about the thing itself, not just about the viewers."
+    "context": "Draws on Slavoj Žižek's concept of 'parallax view' — where the apparent shift in an object's position when viewed from different angles reveals something fundamental about the object itself, not just the viewer."
   },
   {
     "title": "Wander Without a Destination",
     "prompt": "You have a map, a plan, a list of objectives. Put them away.\n\nWalk through this situation the way a curious stranger walks through an unfamiliar city — no destination, no agenda, just attention. Pause at whatever catches your eye. Follow the interesting alley, not the efficient route. Let yourself be drawn by accident, coincidence, and the small details everyone else rushes past.\n\nGoal-oriented thinking is powerful. But it's also a filter that blocks everything it didn't come looking for. Aimless attention catches what purposeful attention cannot.\n\nWhat would you notice about this situation if you stopped trying to get somewhere and simply watched what was happening?",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Walter Benjamin](https://en.wikipedia.org/wiki/Walter_Benjamin) and Baudelaire celebrated the figure of the [flâneur](https://en.wikipedia.org/wiki/Flâneur) — the city wanderer whose aimless strolling reveals truths that focused, goal-driven observation completely misses."
+    "context": "Inspired by the figure of the flâneur from Walter Benjamin and Charles Baudelaire — the urban wanderer whose deliberate aimlessness reveals truths about modern life that purposeful observation misses."
   },
   {
     "title": "Refuse the Easy Resolution",
     "prompt": "Everyone in the room is ready to agree. The solution is on the table. It's tidy, reasonable, and makes the discomfort go away. Something in you resists.\n\nThat resistance isn't obstinacy. It's the recognition that the easy answer is too easy — that something particular, something that matters, is being smoothed over to make the pieces fit. The real texture of this situation doesn't match the clean story being told about it.\n\nWhat would it mean to hold out? Not to be difficult, but to insist that the answer should actually fit the problem — even if that means sitting with dissonance longer than anyone wants to? What is being sacrificed to make the resolution feel clean?",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Theodor Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno) believed that real understanding comes from sitting with tension instead of rushing to resolve it. He called this [negative dialectics](https://en.wikipedia.org/wiki/Negative_Dialectics) — the messy, unresolved version is often more truthful than a neat answer."
+    "context": "Echoes Theodor Adorno's 'negative dialectics' — the philosophical commitment to resist premature synthesis, insisting that real things always exceed the concepts we use to capture them."
   },
   {
     "title": "Face What You Can't Absorb",
     "prompt": "You meet something — a person, a culture, a problem, an idea — that doesn't fit any of your categories. Your first instinct is to translate it into terms you already understand. Make it familiar. File it.\n\nBut what if the most important thing about it is exactly what resists translation? What if the part you can't absorb is the part that matters most?\n\nSome things demand a response before they allow understanding. You don't get to comprehend them first and then decide how to act. They're standing in front of you, irreducibly strange, and they're asking you a question you didn't prepare for.\n\nWhat in this situation are you trying to domesticate that needs to remain foreign?",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Emmanuel Levinas](https://en.wikipedia.org/wiki/Emmanuel_Levinas) argued that encountering something truly different — something you can't fully understand — creates a kind of responsibility. Not everything needs to be \"figured out\" to matter."
+    "context": "Inspired by Emmanuel Levinas's ethics of the 'face of the Other' — the idea that encountering genuine otherness creates a responsibility that precedes and exceeds our ability to comprehend it."
   },
   {
     "title": "Attack From Every Angle at Once",
     "prompt": "A Stoic would say: accept what you cannot change. A utilitarian would say: maximize the good for the most people. A Daoist would say: stop pushing and let it unfold. A Marxist would say: follow the money. A pragmatist would say: whatever works, works.\n\nThey can't all be right. But they can all attack the same problem simultaneously — and the places where they violently disagree are more interesting than any single answer.\n\nDon't pick a philosophy. Unleash them all. Give every framework a seat at the table and let them argue. The point isn't consensus. The point is that the problem looks completely different from each chair, and the contradictions between views illuminate corners that agreement would leave dark.\n\nWhere do the worldviews fight hardest? That's where the real problem lives.",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Deleuze and Guattari](https://en.wikipedia.org/wiki/A_Thousand_Plateaus) suggested that holding multiple incompatible perspectives at the same time is more powerful than forcing everything into one unified view."
+    "context": "Inspired by Deleuze and Guattari's embrace of multiplicity — the idea that thought gains power from cultivating incompatible perspectives simultaneously rather than resolving them into unity."
   },
   {
     "title": "Work With the Missing Piece",
     "prompt": "There's a hole at the center of this and you keep trying to fill it. Every solution, every acquisition, every next step is shaped by the conviction that the right thing will finally make it whole.\n\nBut what if the hole is structural? What if every attempt to fill it just reshapes the absence, and the thing you're reaching for keeps receding because the reaching is the point?\n\nStop trying to complete this. Look at what the absence is organizing. Look at how everything arranges itself around the missing piece. The gap isn't a problem to solve — it's the engine driving everything else.\n\nWhat would change if you stopped trying to fill the void and started designing around it?",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan) noticed that desire is always organized around something absent — a gap that can never be filled. Sometimes the missing piece is the most important part of the design."
+    "context": "Draws on Jacques Lacan's psychoanalytic insight that desire is structured around a constitutive lack — an absent center that can never be filled, but whose shape organizes everything around it."
   },
   {
     "title": "Use the Wrong Map on Purpose",
     "prompt": "The map is wrong. You know it's wrong. It oversimplifies the terrain, erases important distinctions, treats messy reality as if it were clean categories.\n\nUse it anyway.\n\nSometimes a crude, deliberately simplified map gets you where you need to go faster than a perfectly nuanced one. The trick is knowing you're using a wrong map — holding it lightly, deploying it strategically, and throwing it away the moment it stops being useful.\n\nWhat oversimplification could serve you right now, as long as you don't mistake it for the truth? What crude category, deployed temporarily and consciously, would let you act instead of endlessly refining your understanding?\n\nThe sophistication isn't in the map. It's in knowing when to fold it up.",
     "theme": "Philosophy",
     "tag": "",
-    "context": "[Gayatri Spivak](https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak) coined \"[strategic essentialism](https://en.wikipedia.org/wiki/Strategic_essentialism)\" — deliberately using a simplified or even wrong framework when it's tactically useful, while staying aware of its limitations."
+    "context": "Inspired by Gayatri Spivak's concept of 'strategic essentialism' — the deliberate, tactical use of simplified categories for practical purposes, while remaining critically aware of their limitations."
   },
   {
     "title": "Apply Athenian Democracy",
@@ -1099,13 +1099,13 @@
   },
   {
     "title": "Taste the Mise en Place",
-    "theme": "Experimental",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "Every great dish begins long before the flame is lit. Vegetables chopped, spices measured, sauces reduced, everything in its place — mise en place. The cooking itself is just assembly.\n\nWhat would your mise en place look like? What needs to be prepped, measured, and arranged before the heat goes on? What are you trying to cook and chop at the same time — and why does it keep burning?\n\nThe secret every chef knows: cooking is 90% preparation. The fire is the easy part."
   },
   {
     "title": "Read the Palate Cleanser",
-    "theme": "Experimental",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "Between courses, a sorbet. Between intense flavors, something neutral. The palate cleanser exists not as a dish in itself, but as a reset — a return to zero so the next taste arrives fresh.\n\nWhere does your situation need a palate cleanser? What intensity has been building so long that nothing new can be tasted? What small, neutral intervention could reset perception and make the next thing arrive with full impact?\n\nSometimes the most important course is the one with no flavor at all."
   },
@@ -1135,13 +1135,13 @@
   },
   {
     "title": "Check the Fermentation",
-    "theme": "Nature",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "You can't rush fermentation. You set the conditions — temperature, moisture, the right cultures — and then you wait while invisible organisms transform the raw material into something entirely new. Too much intervention kills the process. Too little attention and it spoils.\n\nWhat in your situation needs to ferment? What transformation requires patience, not force? What conditions can you set, then step back from? And how do you know the difference between healthy fermentation and rot?\n\nThe best things in life — bread, wine, cheese, kimchi — are all controlled decay."
   },
   {
     "title": "Read the Grain",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "Every piece of wood has a grain — a direction it wants to go, born from years of growth, weather, and stress. Cut with it and the blade glides. Cut against it and the wood fights you, tears, splinters.\n\nWhat is the grain of this situation? What direction does it naturally want to move? Where have you been cutting against it, mistaking the splintering for the material's fault rather than your approach?\n\nMaster craftspeople don't impose their will on the material. They read its grain and let it guide the cut."
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "title": "Follow the Thread Count",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": "",
     "prompt": "A 200-thread-count sheet and a 1000-thread-count sheet use the same material. The difference is density — how tightly the threads are packed per square inch. Higher count means finer weave, smoother hand, less visible structure. But also: less breathability, more rigidity, higher cost.\n\nWhat is the thread count of your approach? Are you weaving too loosely — gaps where things fall through, visible structure that should be invisible? Or too tightly — so dense that nothing can breathe, every thread accounted for but the fabric suffocates?\n\nWhat would the right thread count feel like? Not the finest possible — the most appropriate."
   },
@@ -1221,230 +1221,158 @@
     "title": "Play Turtle",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). Kids learn geometry by imagining themselves as a turtle on screen — \"to draw a circle, walk in a circle.\" Understanding comes from embodying the problem, not just analyzing it.",
+    "context": "From Seymour Papert's Mindstorms (1980). Turtle geometry teaches math through embodied movement — children program a screen 'turtle' by imagining themselves as the turtle first.",
     "prompt": "When children want to make the computer draw a circle, Seymour Papert tells them: don't analyze it — walk it. Move your body in a circle and describe what you're doing. 'I go forward a little, I turn a little. I keep doing it.' The formal program writes itself from the physical experience.\n\nDon't study this from the outside. Step into it. Become the process, the object, the system. Walk its path with your body. What does it feel like from the inside — the constraints, the momentum, the decision points? What becomes obvious when you stop observing and start being?\n\nThe deepest understanding of any system comes from playing its role, not from watching it perform."
   },
   {
     "title": "Build an Object-to-Think-With",
     "theme": "Philosophy",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). Some objects — physical or conceptual — are natural thinking aids. You project yourself into them, tinker with them, and ideas click into place.",
+    "context": "From Seymour Papert's Mindstorms (1980). 'Objects-to-think-with' are things — physical or conceptual — that you can manipulate and project yourself into, bridging sensory experience and formal knowledge.",
     "prompt": "Papert fell in love with gears as a child. They weren't a lesson — they were a relationship. He could project himself into the gear, feel it turn, and in doing so, carry abstract mathematics into his body. The gear sat at the intersection of personal attachment, physical manipulation, and embedded formal knowledge.\n\nWhat object could serve as a thinking partner for this problem? Not a metaphor you impose from above, but something you can manipulate, turn in your hands, project yourself into. The best objects-to-think-with have a double life: they connect to your sensory experience and to formal structures you can't yet see.\n\nWhat would let you think with your hands what your mind can't yet say?"
   },
   {
     "title": "Debug, Don't Delete",
     "theme": "Experimental",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). When something goes wrong, treat the error as a puzzle worth studying, not a failure to erase. Bugs are information.",
+    "context": "From Seymour Papert's Mindstorms (1980). In Papert's LOGO computer labs, children learned to treat program errors as puzzles worth studying rather than failures to erase.",
     "prompt": "A child writes a program. The output is wrong. Her first instinct: erase it, start over, pretend it never happened. School taught her this — errors are bad, the goal is to be right on the first try.\n\nBut the LOGO lab pushes back. The bug is the most information-rich moment in the entire process. The program isn't wrong — it's almost right, and the gap between intention and result is where all the learning lives. Don't ask 'how do I start over?' Ask 'why did it do that?'\n\nWhat are you trying to erase that you should be studying instead? The thing that went wrong is trying to tell you something. Stop deleting. Start debugging."
   },
   {
     "title": "Construct a Microworld",
     "theme": "Experimental",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). A microworld is a simplified playground with just enough rules that powerful ideas can emerge from free exploration — no instruction manual needed.",
+    "context": "From Seymour Papert's Mindstorms (1980). Microworlds are simplified environments with limited rules where powerful ideas can be discovered through free exploration.",
     "prompt": "Deborah, a sixth grader terrified of open-ended possibility, restricted herself to a single command: RIGHT 30. To turn ninety degrees, she'd repeat it three times. To turn left, she'd repeat it eleven times. What looked limiting from the outside was liberating from within. She stopped asking permission. She started exploring.\n\nThe full problem is too vast. Build a smaller world inside it — one with only a few rules, a handful of elements, hard walls. Then live there. Explore every corner, every combination. Discover how much richness lives inside severe constraint.\n\nWhat is the smallest, simplest version of this problem where the interesting behavior still emerges?"
   },
   {
     "title": "Name the QWERTY",
     "theme": "History",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). QWERTY keyboards aren't optimal, but they stuck because everything else was built around them. What suboptimal early choice has become permanent in your situation?",
+    "context": "From Seymour Papert's Mindstorms (1980). Papert coined 'the QWERTY phenomenon' for how early, suboptimal solutions become permanent once infrastructure accumulates around them.",
     "prompt": "The QWERTY keyboard was designed to slow typists down — keys kept jamming on early machines. The jamming problem was solved within a few years. That was over a century ago. QWERTY remains, and people will argue passionately that it's optimal.\n\nEvery system has its QWERTY: a historical accident that dug itself in, accumulated infrastructure around itself, and is now defended with invented rationalizations long after the original reason vanished. The first primitive product of a new technology always tries to entrench itself.\n\nWhat in this situation exists not because it's the best way, but because it was the first way? What are people defending with logic that is actually just habit wearing a lab coat?"
   },
   {
     "title": "Follow the Aesthetic Compass",
     "theme": "Philosophy",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)), drawing on mathematician [Poincaré](https://en.wikipedia.org/wiki/Henri_Poincaré). Before logic kicks in, an unconscious sense of beauty filters which solutions are worth pursuing. Trust the gut feeling that something is \"elegant.\"",
+    "context": "From Seymour Papert's Mindstorms (1980). Drawing on Henri Poincaré's account of mathematical discovery, where unconscious aesthetic judgment filters solutions before logic verifies them.",
     "prompt": "Poincaré believed the unconscious mind attacks a mathematical problem by running millions of combinations — but it only surfaces the ones that are beautiful. Not the ones that are correct. Beautiful. The conscious mind checks correctness later. But beauty navigated first.\n\nSomething in this situation feels right even though you can't justify it. Something else checks every box but feels wrong. Stop dismissing that signal. Your aesthetic sense is a compass assembled from every pattern you've ever absorbed — it processes more than your reasoning mind can hold.\n\nWhat would you pursue if elegance were a legitimate criterion? What would you abandon if ugliness were sufficient grounds?"
   },
   {
     "title": "Become the Bricoleur",
     "theme": "Experimental",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). A [bricoleur](https://en.wikipedia.org/wiki/Bricolage) is a tinkerer who builds with whatever's at hand, in contrast to the engineer who plans everything top-down. Sometimes improvisation beats blueprints.",
+    "context": "From Seymour Papert's Mindstorms (1980). Papert borrowed Claude Lévi-Strauss's term for a tinkerer who builds with whatever's at hand, contrasting it with the engineer's top-down approach.",
     "prompt": "The engineer works from a blueprint toward a predetermined result. The bricoleur works from whatever is lying around toward whatever it turns out to be good for. A broken chair leg becomes a lever. An old door becomes a table. Lévi-Strauss called this the 'science of the concrete' — building not from abstractions but from the specific things at hand, in all their imperfect, accidental richness.\n\nForget the ideal toolkit. Look at what's actually in front of you: the half-finished things, the leftover pieces, the tools from a completely different job. What do you already have that wasn't meant for this purpose but could be made to serve? What would you build if you stopped waiting for the right materials and started working with the wrong ones?"
   },
   {
     "title": "Find the Samba School",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). Rio's samba schools mix ages, skill levels, and roles around shared purpose — Papert's ideal model for how communities actually learn together.",
+    "context": "From Seymour Papert's Mindstorms (1980). Papert's model for ideal learning communities, inspired by Rio's carnival schools where age and skill levels mix freely around shared purpose.",
     "prompt": "Rio's carnival processions are prepared in samba schools — social clubs where grandparents and children, amateurs and professionals all dance together. Nobody is separated by ability. For five or twenty minutes a specific teaching moment crystallizes from the crowd, then dissolves back into the dancing.\n\nThe classroom separates learner from practitioner, novice from expert, rehearsal from the real thing. The samba school refuses all three separations. What would it look like to learn as a byproduct of doing the actual work, in mixed company, where the expert is also learning and the beginner is also contributing?\n\nThe best learning environments aren't designed by committees. They emerge from communities doing something they care about together."
   },
   {
     "title": "Give It a Body",
     "theme": "Science",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). \"Body-syntonic\" learning means knowledge that connects to your physical experience. Abstract ideas become intuitive when you can feel them, not just think them.",
+    "context": "From Seymour Papert's Mindstorms (1980). Papert's concept of 'body-syntonic' learning — knowledge that connects to physical experience and self-awareness rather than abstract rules.",
     "prompt": "The child doesn't learn the circle from its equation. She learns it by walking in one and describing what her feet do: 'I go forward a little, I turn a little.' Every formal idea was once somebody's physical intuition — and the formalism works because the body knowledge is still underneath, carrying it.\n\nThis idea feels abstract, disembodied, untouchable. But it wasn't born that way. Somewhere in its history it was something a person could feel, move through, hold. What would it mean to give it a body again? Not a diagram — a physical experience. Something you could walk, build, feel with your hands.\n\nThe most powerful abstractions are the ones that never forgot their sensory roots. What body knowledge is this idea hiding?"
   },
   {
     "title": "Mobilize Their Own Intuition",
     "theme": "Philosophy",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). The most persuasive argument works entirely within the other person's own framework — like [Galileo](https://en.wikipedia.org/wiki/Galileo_Galilei), who defeated his opponents using their own assumptions.",
+    "context": "From Seymour Papert's Mindstorms (1980). Papert uses Galileo's thought experiment to show how the most devastating argument works entirely within the opponent's own framework.",
     "prompt": "Galileo didn't disprove Aristotle with equations. He said: your two one-pound balls each take four seconds to fall, right? Now connect them with a silk thread. Is this one object or two? Does the thread change the weight? Could gossamer finer than silk really slow a furiously falling ball of iron?\n\nThe argument uses nothing Aristotle didn't already believe. That's what makes it devastating. The most powerful challenge to any position isn't new evidence from outside — it's the contradiction hiding inside.\n\nStop arguing from your framework. Enter theirs. Follow their own logic further than they've followed it. Where does it buckle? What do they already know that undermines what they claim?"
   },
   {
     "title": "Ride the Horseless Carriage",
     "theme": "History",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). When new technology arrives, people first use it to do the old thing slightly faster. The real breakthrough comes when you stop [replicating the past](https://en.wikipedia.org/wiki/Horseless_carriage).",
+    "context": "From Seymour Papert's Mindstorms (1980). Papert's term for the tendency to use new technology to replicate old processes before discovering its genuinely new capabilities.",
     "prompt": "The first cars looked like carriages without horses. The first movies were plays filmed from a single fixed seat. The first educational software was a textbook that beeped. It took an entire generation before the motion picture became something that wasn't theater plus photography — before anyone discovered what the medium could do that had no precedent at all.\n\nYou've been given a new capability. And your first instinct is to use it to do the old thing, slightly faster. Stop. The automobile wasn't a better horse. What is this new thing actually — not as a replacement for what came before, but as something with no name yet?\n\nThe revolution is never the efficiency gain. It's the capability no one has imagined."
   },
   {
     "title": "Befriend the Infinite Loop",
     "theme": "Science",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) — things that contain smaller versions of themselves — is one of those ideas that feels confusing until you play with it, then it clicks everywhere.",
+    "context": "From Seymour Papert's Mindstorms (1980). Recursion was one of the 'powerful ideas' Papert found children could grasp intuitively when given the right context — and it delighted them.",
     "prompt": "Recursion is the programming idea that makes children's eyes light up. A procedure that calls itself — spiraling outward forever. The recursion riddle: if you have two wishes, what's the second? Two more wishes. Something about going on forever touches a nerve that finite instruction never reaches.\n\nWhat in this situation could feed back into itself? What if the output became the input, the conclusion became the premise, the ending became a new beginning — not as a vicious circle but as a generative spiral? Each pass through the loop changes something. The shape looks like a circle from above, but from the side it's climbing.\n\nWhere would a deliberate loop take you if you let it run?"
   },
   {
     "title": "Reverse the Instruction",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). Instead of the computer teaching the child, the child teaches the computer. You learn the most when you have to explain something clearly enough for a machine to follow — that's the idea behind [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)).",
+    "context": "From Seymour Papert's Mindstorms (1980). Papert's central reversal: instead of the computer programming the child (drill software), the child programs the computer — and learns by teaching.",
     "prompt": "In most classrooms, the computer programs the child — dispensing exercises, checking answers, enforcing the curriculum. Papert reversed it: the child programs the computer. And in teaching the machine to think, the child discovers how she herself thinks. The one giving instruction always learns more than the one receiving it.\n\nWho is programming whom here? Who delivers the instructions and who gets put through their paces? Now reverse it. What would happen if the thing being taught became the teacher? If the subject of the study designed the experiment? If the audience wrote the script?\n\nThe deepest understanding comes not from being told but from the struggle to tell. Who in this situation would learn the most by being forced to explain?"
   },
   {
     "title": "Let the Wrong Theory Teach",
     "theme": "Experimental",
     "tag": "",
-    "context": "From Seymour Papert's [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)). Building a wrong theory and discovering why it's wrong develops your thinking far more than passively receiving the right answer. This is core to [constructionism](https://en.wikipedia.org/wiki/Constructionism_(learning_theory)).",
+    "context": "From Seymour Papert's Mindstorms (1980). Drawing on Piaget, Papert argued that building wrong theories develops thinking skills more valuable than any correct answer received passively.",
     "prompt": "Piaget asked preschoolers what makes the wind. They didn't say 'I don't know.' They said: 'The trees make wind by waving their branches.' Wrong — but a beautiful piece of theory-building. There's a correlation. There's a plausible mechanism. You can even test it by waving your hand near your face.\n\nThe educational reflex is to correct the theory. But the child who theorizes wrongly is practicing the craft of theorizing — a skill far more valuable than any individual right answer. The wrong theory, carefully built, teaches you the shape of the problem better than the right answer received from someone else.\n\nWhat beautiful wrong theory could you construct here? What would its failure teach you about what must actually be true?"
   },
   {
     "title": "Convene the Society",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Marvin Minsky's [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind). Minds aren't single things — they're built from huge numbers of tiny, simple agents. None is intelligent alone, but together they produce thought.",
+    "context": "From Marvin Minsky's Society of Mind (1986). Minsky's central thesis: minds are built from vast societies of tiny, mindless agents — none intelligent alone, but collectively producing what we call thought.",
     "prompt": "Pick up a cup of tea. Your grasping agents want to keep hold of the cup. Your balancing agents keep the tea from spilling. Your thirst agents want you to drink. Your moving agents want the cup at your lips. None of them are smart. None of them consult each other. And yet — the tea gets drunk.\n\nYour situation works the same way. There is no single problem here and no single answer. There's a crowd of dumb, focused urges — each pulling in its own direction, each ignoring the rest. You've been looking for one brilliant move. Try this instead: name the agents. What does each one want? Where are they helping each other without knowing it — and where are they quietly at war?\n\nIntelligence isn't a thing you find. It's what happens when a mob learns to collaborate."
   },
   {
     "title": "Reactivate the K-Line",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Marvin Minsky's [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind). A K-line is like a mental bookmark — it reconnects all the brain-agents that were active during a past success, re-entering a useful state rather than retrieving a fact.",
+    "context": "From Marvin Minsky's Society of Mind (1986). A K-line (knowledge-line) is a wirelike structure that reconnects the same mental agents that were active during a past success — re-entering a state rather than retrieving a fact.",
     "prompt": "You don't store memories like files in a cabinet. When you had that breakthrough — that moment of clarity — your mind wasn't recording a fact. It was lighting up a constellation of agents, a specific state of being.\n\nA K-line is the wire that reconnects them. Pull it, and you don't remember what you thought — you re-enter how you thought. The room, the mood, the posture, the strange confidence.\n\nSo don't ask: what did I do last time this worked? Ask: who was I? What state was I in? Reassemble the constellation. The insight isn't stored somewhere you can look it up. It's a place you have to go back to."
   },
   {
     "title": "Deploy the B-Brain",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Marvin Minsky's [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind). Imagine splitting your thinking into two: one brain that acts on the world, and a second brain that watches the first brain. That's how self-reflection works without going in circles.",
+    "context": "From Marvin Minsky's Society of Mind (1986). Minsky proposes splitting cognition into an A-brain that acts on the world, and a B-brain whose entire world is the A-brain — enabling self-reflection without infinite regress.",
     "prompt": "Divide yourself in two. The A-brain does the work — it sees the world, acts on it, makes decisions. The B-brain doesn't touch the world at all. Its only world is the A-brain.\n\nThe B-brain watches you think. It notices when you're going in circles. It sees when you're drowning in detail or floating too far above it. It catches the moment you start repeating yourself and mistake it for progress.\n\nYou can't improve your thinking from inside your thinking. Step out. What does your B-brain see right now? Is the A-brain stuck? Scattered? Obsessed with the wrong level of detail? The observer's job isn't to solve the problem. It's to fix the solver."
   },
   {
     "title": "Interrogate the Censor",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Marvin Minsky's [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind). Your mind has \"censors\" that quietly block unproductive thoughts before you even notice them. Sometimes the blocked thought was actually the breakthrough.",
+    "context": "From Marvin Minsky's Society of Mind (1986). Minsky describes censors as agents that learn to deflect unproductive thoughts before they fully form — more efficient than suppressors, which block actions only at the last moment.",
     "prompt": "Your mind doesn't just learn what to think. It learns what not to think. Over a lifetime, you've built a vast, invisible library of forbidden thoughts — ideas your mental censors learned to deflect before they fully form.\n\nSome of these censors are wise. They keep you from repeating old mistakes. But others have outlived their purpose — still blocking ideas that were dangerous once, in a context that no longer exists.\n\nWhat thoughts keep almost arriving and then vanishing? What directions does your mind refuse to go, so smoothly you don't even notice the refusal? The censor's greatest trick is making you believe the blocked thought was never there at all."
   },
   {
     "title": "Shatter the Frame",
     "theme": "Psychology",
     "tag": "",
-    "context": "From Marvin Minsky's [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind). [Frames](https://en.wikipedia.org/wiki/Frame_(artificial_intelligence)) are mental templates your brain activates instantly in familiar situations, filling in blanks with assumptions. They make you fast — but also blind.",
+    "context": "From Marvin Minsky's Society of Mind (1986). Frames are skeleton templates the mind activates instantly in familiar situations, filling blanks with default assumptions — explaining the 'blinding speed of sight' but also its blindness.",
     "prompt": "You walked into this situation and understood it instantly. The speed of that understanding should terrify you.\n\nYou were fast because you weren't really looking. Your mind grabbed a template off the shelf — built from every similar situation you've ever walked into — and filled the blanks before you could blink. The chair has four legs. The meeting has an agenda. The problem looks just like the last one. You were done understanding before you started seeing.\n\nMost of what you 'know' right now is a guess your mind made before you arrived. Which assumptions are load-bearing and which are just furniture you carried in from another room? Pull out the defaults, one by one. What's actually here — and what did you just expect to find?"
   },
   {
     "title": "Invoke the Puzzle Principle",
     "theme": "Science",
     "tag": "",
-    "context": "From Marvin Minsky's [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind). Any problem can be solved by trial and error, as long as you can tell when it's solved. The hard part isn't finding answers — it's knowing what \"solved\" looks like.",
+    "context": "From Marvin Minsky's Society of Mind (1986). The Puzzle Principle: any problem can be solved by trial and error, provided only that we have a way to recognize when the problem is solved.",
     "prompt": "You don't need to know how to solve this. You only need to know what solved looks like.\n\nHere's the secret: the hard part was never generating ideas. You can generate all day. The hard part is the filter — knowing what 'yes' looks like clearly enough that you can say it with conviction the moment something fits.\n\nSo stop reasoning your way to the answer. Get ruthless about your criteria instead. What would you accept? What would make you say 'done'? Define the shape of the solution with painful precision — then generate wildly, recklessly, without judgment. The recognition is the intelligence. The generation can be dumb."
-  },
-  {
-    "title": "Adopt Structural Anthropology",
-    "prompt": "Analyze via Lévi-Strauss: identify binary oppositions and unconscious patterns organizing surface appearances.\n\nWhat fundamental oppositions might underlie visible phenomena (e.g., raw/cooked, nature/culture)? \n\nDescribe how anthropological theory could reveal deep structures beneath cultural expressions. What are the hidden rules of the game?",
-    "theme": "History",
-    "tag": ""
-  },
-  {
-    "title": "Adopt Phenomenological Reduction",
-    "prompt": "Apply Husserl's phenomenological reduction: suspend assumptions about external reality to examine essential structures of subjective experience.\n\nWhat remains when conventional interpretations are bracketed ('put in parentheses')?\n\nDetail how this philosophical method might reveal experiential foundations beneath conceptual constructions. What is the raw experience?",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Apply Hyperreal Simulation",
-    "prompt": "Consider via Baudrillard's hyperreality: simulations replace and precede the real.\nWhat aspects might be copies without originals? Maps that precede territories?\n\nDescribe how postmodern theory might reveal simulacra functioning as *more real* than any underlying reality. Is it real, or is it Memorex?",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Practice Ontological Oscillation",
-    "prompt": "Ontology is the philosophical study of being or existence. Deliberately 'oscillate' your understanding of what this situation *is* at its most fundamental level.\n\nFor example, is this situation primarily:\n*   A system of interconnected parts?\n*   A narrative with characters and a plot?\n*   A problem to be solved?\n*   A game with rules and players?\n*   An energetic field?\n\nRapidly shift between at least three distinct ontological frames. How does what you 'see' and what seems possible change with each oscillation?",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Employ Gramscian Hegemony",
-    "prompt": "Consider Antonio Gramsci's concept of cultural hegemony—how dominant groups maintain power not just through force but through cultural leadership and manufacturing consent.\n\n*   What unstated assumptions or 'common sense' beliefs might be shaping this situation?\n*   How could you engage in a 'war of position'—gradually building alternative perspectives and values?\n*   What counterhegemonic narratives or frameworks might challenge prevailing orthodoxies?\n\nDescribe how this attention to cultural and ideological dimensions might reveal leverage points invisible to more straightforward power analyses.",
-    "theme": "Politics",
-    "tag": ""
-  },
-  {
-    "title": "Enact Žižekian Parallax View",
-    "prompt": "Apply Slavoj Žižek's parallax view: the apparent displacement of an object when viewed from different positions, with no neutral middle ground to reconcile perspectives.\n\nRather than seeking synthesis or compromise:\n\n*   Identify two antagonistic perspectives on this situation\n*   Exaggerate their incompatibility to reveal the gap between them\n*   Recognize this gap itself as the 'truth' of the situation\n\nHow might embracing this irreducible gap—this minimal difference that separates the same thing from itself—reveal something more profound than any attempt at harmonious integration?",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Summon the Flâneur",
-    "prompt": "Become Walter Benjamin's flâneur—the urban wanderer observing modernity with detached curiosity, drifting through cities without predetermined paths, collecting impressions and fragments.\n\n*   How would a deliberate aimlessness alter your perception?\n*   What dialectical images—momentary juxtapositions revealing deeper truths—might emerge?\n*   What arcades (passages between established structures) have been overlooked?\n\nDetail how this philosophical wandering—attentive yet unhurried, purposeless yet profound—might reveal constellations of meaning invisible to goal-oriented analysis.",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Practice Adorno's Negative Dialectics",
-    "prompt": "Apply Theodor Adorno's negative dialectics: resisting the tendency of concepts to dominate their objects, maintaining the non-identity between thought and reality.\n\n*   What particular qualities of this situation resist being subsumed under general concepts?\n*   How might conventional 'solutions' actually perpetuate the problem?\n*   Where is dissonance more honest than harmony?\n\nExplore the potential in remaining methodically negative—refusing premature reconciliation or synthesis. How might this stubborn non-identity with established patterns of thought reveal possibilities invisible to affirmative thinking?",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Invoke Levinas's Face of the Other",
-    "prompt": "Consider this situation through Emmanuel Levinas's ethics of alterity: the face-to-face encounter with absolute otherness that precedes ontology, initiating infinite responsibility.\n\n*   Who or what constitutes the radical 'Other' in this context?\n*   How might you prioritize ethical responsibility to this otherness before questions of knowledge or utility?\n*   What would it mean to be hostage to an infinite demand that can never be fully satisfied?\n\nDetail how approaching through radical respect for alterity—rather than through categorization or appropriation—might transform your very conception of what this situation asks of you.",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Construct a Philosophical Hydra",
-    "prompt": "Inspired by Deleuze and Guattari's polycephalous thinking, transform your approach into a multi-headed philosophical beast—a thought experiment where incompatible philosophical systems simultaneously attack the same problem.\n\n*   What if a Stoic, Utilitarian, Daoist, Marxist, Jain, and Transhumanist all addressed this challenge?\n*   How would their contradictory diagnostics and prescriptions illuminate the situation?\n*   Where do their incompatible virtues create productive tension?\n\nRather than choosing one philosophical tradition, cultivate this monstrous hybrid. How does this polycephalous thinking—where multiple heads need not reach consensus—generate greater conceptual biodiversity?",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Apply Lacan's Theory of Lack",
-    "prompt": "Examine this situation through Jacques Lacan's psychoanalytic lens: desire is structured around an absent core, a constitutive lack that can never be filled.\n\n*   What fantasies of completeness or satisfaction might be driving your approach?\n*   What fundamental lack or absence is being disavowed?\n*   How might objectives be functioning as objet petit a—the unattainable object-cause of desire that gives shape to yearning?\n\nExplore how acknowledging this essential incompleteness—rather than pursuing illusory wholeness—might transform your relationship to both problems and solutions. What might emerge if you work with lack rather than against it?",
-    "theme": "Philosophy",
-    "tag": ""
-  },
-  {
-    "title": "Implement Spivak's Strategic Essentialism",
-    "prompt": "Apply Gayatri Spivak's concept of strategic essentialism: the temporary, tactical use of essentialist identities or categories for strategic purposes, while remaining aware of their constructed nature.\n\n*   What provisional identities, definitions, or boundaries might be tactically useful, even while recognizing their ultimate inadequacy?\n*   How can you deploy simplified categories strategically without being limited by them?\n*   When might deliberate oversimplification serve a greater complexity?\n\nDetail how this paradoxical approach—simultaneously using and subverting categorical thinking—might create strategic advantages while maintaining critical awareness of its own limitations.",
-    "theme": "Philosophy",
-    "tag": ""
   },
   {
     "title": "Season in Layers",
     "prompt": "Every great stock is built in stages. The mirepoix goes in first — slow, patient, foundational. Aromatics later. Salt at the end. Each layer of flavor needs time to develop before the next one joins.\n\nWhere are you trying to add all the seasoning at once? What foundational flavor is missing because you skipped straight to the finishing salt? What needs to cook low and slow before anything else goes in?\n\nDepth doesn't come from more ingredients. It comes from patience with each one.",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Know When It's Overworked",
     "prompt": "Knead bread dough just enough and the gluten develops — elastic, supple, alive. Keep going past that point and it tears, turns tough, refuses to rise. The dough tells you when to stop, if you're paying attention.\n\nWhat in your situation has been handled past its ideal point? Where has productive refinement crossed into destructive overwork? What needs you to take your hands off and let it rest?\n\nSometimes the best thing you can do for something is stop touching it.",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Deglaze the Pan",
     "prompt": "After the searing heat, the fond — those caramelized bits stuck to the bottom of the pan. They look like burnt residue. They're actually concentrated flavor. A splash of wine, a wooden spoon, and everything dissolves into richness.\n\nWhat's stuck to the bottom of your process? What looks like residue or failure but is actually concentrated insight? What solvent — a new question, a different perspective, a conversation — could release it?\n\nThe best sauces are made from what everyone else scrapes into the trash.",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
@@ -1504,25 +1432,25 @@
   {
     "title": "Train the Antagonist Muscle",
     "prompt": "Every powerful movement depends on the opposing muscle group. The punch's power comes from the back, not the arm. The kick's stability comes from the standing leg, not the kicking one. Neglect the antagonist and the whole system breaks down.\n\nWhat opposing force or capability have you been neglecting? What invisible counterpart makes your primary strength possible? Where would training the opposite of what seems important actually improve the thing you care about?\n\nStrength isn't just about the muscle you're using. It's about the one holding everything else in place.",
-    "theme": "Other",
+    "theme": "Science",
     "tag": ""
   },
   {
     "title": "Call the Play at the Line",
     "prompt": "The coach sends in the play. But the quarterback reads the defense, sees something the sideline can't, and audibles — changes the call at the last second based on what's actually in front of them.\n\nWhat plan are you running that no longer matches the defense you're facing? What can you see from the field that the original strategy couldn't anticipate? When is it time to trust what's in front of you over what was decided from a distance?\n\nThe best plays are the ones that adapt to reality. Call the audible.",
-    "theme": "Other",
+    "theme": "Games",
     "tag": ""
   },
   {
     "title": "Find the Selvedge",
     "prompt": "The selvedge is the self-finished edge of woven fabric — where the weft thread turns back on itself, creating a boundary that won't unravel. No hemming required. The structure completes itself.\n\nWhere does your work naturally finish itself? What edges need no external binding because the process itself creates a clean boundary? And where are you hemming frantically at edges that keep fraying because there's no selvedge — no self-completing structure?\n\nDesign the selvedge into the process. Let the edge finish itself.",
-    "theme": "Art",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Read the Warp and Weft",
     "prompt": "The warp runs vertically, held taut on the loom — the structural backbone, set before any weaving begins. The weft crosses horizontally, carrying the pattern, the color, the visible design. You see the weft. You depend on the warp.\n\nWhat is the warp of your situation — the tension-bearing structure nobody sees? What is the weft — the visible pattern everyone notices? What happens if the warp breaks? And what would change if you redesigned the invisible foundation while keeping the visible pattern identical?\n\nThe cloth shows you the weft. The loom knows the warp.",
-    "theme": "Art",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
@@ -1576,13 +1504,13 @@
   {
     "title": "Find the Heat Color",
     "prompt": "A blacksmith doesn't use a thermometer. She reads the color of the steel — cherry red for bending, bright yellow for welding, white for forging. Too cold and the metal cracks. Too hot and the grain structure is ruined forever. The color tells her everything.\n\nWhat color is your material right now? Is it workable — hot enough to shape, cool enough to hold? Where are you hammering on cold metal, wondering why it cracks? Where have you overheated something past the point of structural integrity?\n\nLearn to read the heat. The material will tell you when it's ready.",
-    "theme": "Art",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Quench at the Right Moment",
     "prompt": "Hardening steel requires heating it past critical temperature, then plunging it into oil or water. Too soon and it stays soft. Too late and internal stresses shatter it. The quench — the moment of rapid, decisive change — must come at exactly the right time.\n\nWhen is the quench moment for your situation? What has been heated to the point where rapid, decisive action would lock in the transformation? Where are you letting something cool slowly when a sudden shock would create the hardness you need?\n\nSome things only become strong through shock. But timing is everything.",
-    "theme": "Art",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
@@ -1612,13 +1540,13 @@
   {
     "title": "Center the Clay",
     "prompt": "Before you can shape anything on the wheel, the clay must be centered — perfectly balanced on the axis of rotation. Off-center clay wobbles, fights your hands, produces crooked walls. The centering takes longer than the shaping, and nobody sees it in the finished piece.\n\nWhat needs to be centered before you can begin shaping? What wobble in your foundation is making everything downstream fight you? What patient, invisible work would make everything that follows easier?\n\nThe pot doesn't know it was centered. But it knows when it wasn't.",
-    "theme": "Art",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Trust the Kiln",
     "prompt": "You've shaped the piece. You've glazed it with care. Now you put it in the kiln, close the door, and surrender control. The fire will do things you can't predict — colors shift, glazes run, surfaces crackle. Some pieces shatter. Others emerge transformed in ways you never planned.\n\nWhat needs to go through the fire? What has been shaped and prepared but now needs a transformation you can't control? Where do you need to close the door and let the heat do its work?\n\nThe kiln doesn't take orders. But it finishes what your hands started.",
-    "theme": "Art",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
@@ -1636,25 +1564,25 @@
   {
     "title": "Translate the Untranslatable",
     "prompt": "Every language has words with no equivalent elsewhere. Saudade. Hygge. Wabi-sabi. Tsundoku. These aren't gaps in vocabulary — they're entire experiences that one culture perceives and another doesn't have the lens to see.\n\nWhat untranslatable concept lives in your situation — something everyone involved feels but nobody has a word for? What would change if you named it? What new perception becomes available when the unnamed gets a name?\n\nThe word doesn't create the feeling. But without the word, the feeling has nowhere to land.",
-    "theme": "Anthropology",
+    "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Listen for the Register Shift",
     "prompt": "People switch linguistic registers constantly — formal to casual, technical to emotional, public to private. The shift itself carries meaning. When a colleague drops from boardroom language into kitchen-table talk, that's a signal. When technical jargon suddenly appears in casual conversation, that's a signal too.\n\nWhat register shifts are happening around this situation? Where does the language change — and what does the change reveal about what people actually feel, believe, or fear? Where is formality hiding discomfort? Where is casualness masking seriousness?\n\nThe words matter less than how they're dressed.",
-    "theme": "Anthropology",
+    "theme": "Psychology",
     "tag": ""
   },
   {
     "title": "Measure Twice",
     "prompt": "The oldest rule in the shop. Not because carpenters are forgetful, but because the cost of a wrong cut is absolute — the wood doesn't grow back. The second measurement isn't redundant. It's insurance against the confidence of the first.\n\nWhat are you about to cut that can't be uncut? Where is the cost of being wrong irreversible? What second measurement — from a different angle, using a different reference — would either confirm your confidence or save you from a mistake you couldn't fix?\n\nMeasuring twice isn't doubt. It's respect for the material.",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
     "title": "Let the Joint Do the Work",
     "prompt": "A well-made mortise and tenon needs no glue, no screws, no fasteners. The geometry itself creates the strength. The joint holds because the shapes interlock — because the design anticipated the forces and routed them through the structure.\n\nWhere are you fastening things together that should be joined? What external reinforcement are you adding because the underlying connection wasn't designed to carry the load? What would it take to make the joint itself — the way things meet — strong enough to need nothing else?\n\nThe best joints are invisible. The strength lives in the fit.",
-    "theme": "Other",
+    "theme": "Cooking & Making",
     "tag": ""
   },
   {
