@@ -1,6 +1,26 @@
 2026-02-26
-- pinned card to fixed vertical position (15vh from top) so titles stay in place when navigating between cards
-- moved theme tag to bottom-right of card, clicking it opens browse overlay filtered to that category
+- updated category tags to match help text color (text-foreground/70) and header font (font-sans) for visual consistency
+- clicking a theme tag now scrolls to top of page smoothly after filtering
+- embedded Wikipedia/source links naturally within context blurb text (linked names, concepts, and phrases) instead of a separate "Read more" link — removed `contextUrl` field in favor of markdown-style inline links parsed in the component
+- improved context callout text contrast from `text-muted-foreground` to `text-foreground/70`
+- expanded featured cards from ~10 auto-picked to 30 hand-curated strategies chosen for broad applicability across any project type
+- rewrote all 32 context blurbs to be more accessible and down-to-earth (ELI5 style) instead of academic
+- moved category/theme tag to top-right of each card (was top-left, now flush right opposite the title)
+- darkened context callout text for improved readability (from muted 80% to full muted-foreground)
+- added "Read more" links to all 32 context cards — each links to the relevant Wikipedia article (e.g. structural anthropology, simulacra, Society of Mind, Mindstorms)
+- added `contextUrl` field to StrategyCard type and JSON data
+- added context callouts to academic-feeling cards — 32 cards with a `context` field now show a 💡 blurb below the prompt explaining the inspiration/source
+- added `context` field to StrategyCard type and data loader
+- merged strategy card dataset — docs source had 32 new cards not in root, root had 56 batch 2 cards not in docs, combined total now 277 cards
+- upgraded filter dropdown to custom component — shows "Filter by Category: [name]" on the button, category counts in the list, search switches to "All" and placeholder says "Search all strategies..."
+- replaced category sidebar with a dropdown under the search bar — "Featured" selected by default showing a curated mix, "All" shows everything, page background tints by selected category
+- restored original header layout with centered logo, "what is this?" link, and search bar below
+- replaced carousel homepage with browse view as the main page — sticky header with search, category sidebar, scrollable card list
+- removed carousel, overlay system, and all associated state (shuffled deck, arrow nav, browse modal)
+- deleted unused files: strategy-filter.tsx, button.tsx, card.tsx, lib/utils.ts, next.config.js, .bak data file
+- removed unused npm packages: clsx, tailwind-merge, class-variance-authority, @radix-ui/react-slot, twemoji
+- cleaned up StrategyCard component — removed size prop and large variant, single clean implementation
+- cleaned up layout.tsx — removed unused cn import
 - colored card text areas by theme using the original category color palette (Psychology khaki, Science blue, Philosophy purple, etc.)
 - fixed navigation arrows to viewport center so they stay in place regardless of card height
 - scaled down the single-card view — smaller title, body text, padding, and narrower container for a more refined proportion

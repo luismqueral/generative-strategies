@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Lato, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
-import { cn } from "@/lib/utils";
 
 const lato = Lato({
   weight: ['300', '400', '700', '900'],
